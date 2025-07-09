@@ -1,0 +1,21 @@
+[
+    {
+        "id_label": "Bitcoin",
+        "ticker": "BTC",
+        "country": [
+            "United States of America"
+        ],
+        "industry": [
+        ],
+        "aliases": [
+            "bitcoin"
+        ],
+        "products": [
+        ],
+        "subsidiaries": [
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]
