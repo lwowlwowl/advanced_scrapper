@@ -1,0 +1,126 @@
+[
+    {
+        "id_label": "GE Aerospace",
+        "ticker": "GE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "aerospace industry"
+        ],
+        "aliases": [
+            "GEAE",
+            "GE Aviation",
+            "GE Aircraft Engines",
+            "General Electric Aircraft Engines"
+        ],
+        "products": [
+            "jet engine"
+        ],
+        "subsidiaries": [
+            "General Electric Spain",
+            "GE Energy",
+            "GE Global Research (Germany)",
+            "General Electric (New Zealand)",
+            "GE Power",
+            "General Electric (Switzerland)",
+            "General Electric (Austria)",
+            "General Electric (Argentina)",
+            "General Electric (Israel)",
+            "GE Italia Holding",
+            "GE Aviation Czech",
+            "SABIC Innovative Plastics",
+            "GE Industrial",
+            "ScanWind",
+            "GE Lighting",
+            "GE Global Research",
+            "GE Aerospace",
+            "GE Consumer & Industrial",
+            "GE HealthCare",
+            "GE Wind Energy",
+            "NBC (Start: 1986-01-01T00:00:00Z) (End: 2004-01-01T00:00:00Z)",
+            "Radio Corporation of America (Start: 1919-01-01T00:00:00Z) (End: 1932-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Tungsram (Start: 1989-01-01T00:00:00Z) (End: 2018-01-01T00:00:00Z)",
+            "GE Transportation",
+            "GE Wind Energy",
+            "Wabtec",
+            "Baker Hughes",
+            "GE Capital",
+            "GE HealthCare",
+            "GE Capital Aviation Services",
+            "GE Aerospace",
+            "GE Water",
+            "TMBThanachart Bank PCL.",
+            "British Broadcasting Company Limited",
+            "Trump International Hotel and Tower",
+            "Allendale Square",
+            "America's Talking",
+            "Dowty Rotol",
+            "GE Oil and Gas",
+            "National Broadcasting Company"
+        ],
+        "ceos": [
+            "Jeff Immelt (Start: 2001-01-01T00:00:00Z) (End: 2017-07-31T00:00:00Z)",
+            "H. Lawrence Culp Jr. (Start: 2018-10-01T00:00:00Z)",
+            "Philip D. Reed (Start: 1940-01-01T00:00:00Z) (End: 1942-01-01T00:00:00Z)",
+            "Fred J. Borch (Start: 1967-01-01T00:00:00Z) (End: 1972-01-01T00:00:00Z)",
+            "John L. Flannery (Start: 2017-08-01T00:00:00Z) (End: 2018-10-01T00:00:00Z)",
+            "Ralph J. Cordiner (Start: 1950-01-01T00:00:00Z) (End: 1958-01-01T00:00:00Z)",
+            "Reginald H. Jones (Start: 1972-01-01T00:00:00Z) (End: 1972-01-01T00:00:00Z)",
+            "Jack Welch (Start: 1981-01-01T00:00:00Z) (End: 2001-01-01T00:00:00Z)",
+            "Owen D. Young (Start: 1919-01-01T00:00:00Z) (End: 1929-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Bella Goren (Start: 2022-03-07T00:00:00Z)",
+            "Leslie Seidman (Start: 2018-01-01T00:00:00Z)",
+            "H. Lawrence Culp Jr. (Start: 2018-01-01T00:00:00Z)",
+            "Stephen Angel (Start: 2022-03-07T00:00:00Z)",
+            "Paula Rosput Reynolds (Start: 2018-01-01T00:00:00Z)",
+            "Tom Mihaljevic (Start: 2022-04-11T00:00:00Z)",
+            "Ed Garden (Start: 2017-01-01T00:00:00Z)",
+            "James Tisch (Start: 2010-01-01T00:00:00Z) (End: 2022-03-08T00:00:00Z)",
+            "Thomas Horton (Start: 2018-01-01T00:00:00Z)",
+            "Risa Lavizzo-Mourey (Start: 2017-01-01T00:00:00Z)",
+            "Francisco D'Souza (Start: 2013-01-01T00:00:00Z)",
+            "Catherine Lesjak (Start: 2019-01-01T00:00:00Z)",
+            "Ash Carter (Start: 2020-01-01T00:00:00Z)",
+            "S\u00e9bastien Bazin (Start: 2016-01-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "General Electric",
+        "ticker": "GE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mechanical engineering",
+            "automotive industry",
+            "power engineering",
+            "aircraft industry",
+            "conglomerate",
+            "finance lease",
+            "arms industry"
+        ],
+        "aliases": [
+            "General Electric Co.",
+            "General Electric Company",
+            "GE"
+        ],
+        "products": [
+            "aircraft engine"
+        ],
+        "subsidiaries": [
+            "GE Aviation Systems",
+            "GE Honda Aero Engines",
+            "Engine Alliance",
+            "CFM International",
+            "Walter Aircraft Engines"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

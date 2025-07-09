@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Charles River Laboratories",
+        "ticker": "CRL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Charles River Laboratories, Inc.",
+            "Charles River"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Charles River Laboratories (Netherlands)",
+            "Charles River Laboratories (United Kingdom)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Craig B. Thompson (End: 2018-01-01T00:00:00Z)"
+        ]
+    }
+]

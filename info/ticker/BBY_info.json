@@ -1,0 +1,46 @@
+[
+    {
+        "id_label": "Best Buy",
+        "ticker": "BBY",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "retail"
+        ],
+        "aliases": [
+            "Best Buy Co., Inc.",
+            "Best Buy Co. Inc.",
+            "Best Buy Co."
+        ],
+        "products": [
+            "consumer electronics"
+        ],
+        "subsidiaries": [
+            "Geek Squad",
+            "Magnolia Audio Visual"
+        ],
+        "owned_entities": [
+            "Future Shop",
+            "Geek Squad",
+            "Insignia",
+            "Dynex"
+        ],
+        "ceos": [
+            "Hubert Joly"
+        ],
+        "board_members": [
+            "Mario Marte (Start: 2021-01-01T00:00:00Z)",
+            "Claudia Munce (Start: 2016-03-01T00:00:00Z)",
+            "Steve Rendle (Start: 2021-03-01T00:00:00Z)",
+            "J. Patrick Doyle (Start: 2014-10-01T00:00:00Z)",
+            "David Kenny (Start: 2013-01-01T00:00:00Z)",
+            "Karen McLoughlin (Start: 2015-09-01T00:00:00Z)",
+            "Lisa Caputo (Start: 2009-12-01T00:00:00Z)",
+            "Tommy Millner (Start: 2014-01-01T00:00:00Z)",
+            "Eugene Woods (Start: 2018-12-01T00:00:00Z)",
+            "Richelle Parham (Start: 2018-03-01T00:00:00Z)",
+            "Corie Barry (Start: 2019-06-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "APA Corporation",
+        "ticker": "APA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry",
+            "gas industry"
+        ],
+        "aliases": [
+            "Apache Oil Corporation",
+            "Apache Corporation",
+            "Apache Corp."
+        ],
+        "products": [
+            "petroleum"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Emu Downs Solar Farm",
+            "Carpentaria Gas Pipeline"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "APA Group",
+        "ticker": "APA",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "APA GROUP"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

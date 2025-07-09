@@ -1,0 +1,46 @@
+[
+    {
+        "id_label": "Expedia Group",
+        "ticker": "EXPE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "tourism industry"
+        ],
+        "aliases": [
+            "Expedia Group, Inc.",
+            "Expedia Inc.",
+            "Expedia Group Inc",
+            "EXPE (NASDAQ)",
+            "EXPE",
+            "Expedia"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Vrbo",
+            "wotif.com",
+            "Egencia",
+            "Orbitz",
+            "Hotwire.com",
+            "HomeAway",
+            "Hotels.com",
+            "Travelocity",
+            "expedia.com",
+            "CheapTickets",
+            "Trivago",
+            "Ebookers.com",
+            "Findatour.co"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Ariane Gorin (Start: 2024-05-01T00:00:00Z)",
+            "Dara Khosrowshahi (Start: 2004-12-01T00:00:00Z) (End: 2017-08-28T00:00:00Z)"
+        ],
+        "board_members": [
+            "Chelsea Clinton"
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "id_label": "Alaska Airlines",
+        "ticker": "ALK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Brad Tilden"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Alaska Air Group",
+        "ticker": "ALK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "transport"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Horizon Air",
+            "Alaska Airlines"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "ALKANE RESOURCES LIMITED",
+        "ticker": "ALK",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "FMC Corporation",
+        "ticker": "FMC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            "Food Machinery and Chemical Corporation",
+            "Food Machinery and Chemical",
+            "Food Machinery & Chemical Corporation"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

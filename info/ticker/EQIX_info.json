@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Equinix",
+        "ticker": "EQIX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "Internet"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "data center"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Alog Datacenters"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

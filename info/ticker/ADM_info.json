@@ -1,0 +1,70 @@
+[
+    {
+        "id_label": "Archer Daniels Midland",
+        "ticker": "ADM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "food processing"
+        ],
+        "aliases": [
+            "Archer-Daniels-Midland Company",
+            "Archer Daniels Midland Company",
+            "ADM"
+        ],
+        "products": [
+            "ethanol",
+            "biofuel",
+            "fodder",
+            "high fructose corn syrup",
+            "dried fruit",
+            "corn syrup",
+            "sugar substitute"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Wilmar International"
+        ],
+        "ceos": [
+            "Milena Mondini de Focatiis (Start: 2021-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Admiral Group",
+        "ticker": "ADM",
+        "country": [
+            "United Kingdom"
+        ],
+        "industry": [
+            "insurance industry"
+        ],
+        "aliases": [
+            "Bell Insurance",
+            "Admiral Insurance",
+            "Admiral Group PLC",
+            "Admiral"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Frank Sanchez (Start: 2014-05-01T00:00:00Z)",
+            "Juan R. Luciano (Start: 2014-11-06T00:00:00Z)",
+            "Terry Crews (Start: 2011-05-01T00:00:00Z)",
+            "Suzan Harrison (Start: 2017-05-01T00:00:00Z)",
+            "Jim Collins (Start: 2022-08-03T00:00:00Z)",
+            "Kelvin Westbrook (Start: 2003-11-01T00:00:00Z)",
+            "Debra Sandler (Start: 2016-05-01T00:00:00Z)",
+            "Donald E. Felsinger (Start: 2009-08-01T00:00:00Z)",
+            "Lei Zhang Schlitz (Start: 2019-05-01T00:00:00Z)",
+            "Ted Colbert (Start: 2021-05-01T00:00:00Z)",
+            "Michael S. Burke (Start: 2018-05-01T00:00:00Z)",
+            "Patrick Moore (Start: 2003-11-01T00:00:00Z)"
+        ]
+    }
+]

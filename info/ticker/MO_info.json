@@ -1,0 +1,74 @@
+[
+    {
+        "id_label": "Altria",
+        "ticker": "MO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "tobacco industry",
+            "food industry"
+        ],
+        "aliases": [
+            "Philip Morris Companies Inc.",
+            "Philip Morris Companies",
+            "Altria Group, Inc."
+        ],
+        "products": [
+            "tobacco",
+            "tobacco product"
+        ],
+        "subsidiaries": [
+            "John Middleton Co.",
+            "Chateau Ste. Michelle",
+            "Philip Morris USA",
+            "U.S. Smokeless Tobacco Company"
+        ],
+        "owned_entities": [
+            "Parliament",
+            "Juul"
+        ],
+        "ceos": [
+            "William F. Gifford, Jr. (Start: 2020-04-16T00:00:00Z)"
+        ],
+        "board_members": [
+            "Ellen R. Strahlman (Start: 2020-11-02T00:00:00Z)",
+            "Kathryn B. McQuade (Start: 2012-02-29T00:00:00Z)",
+            "William F. Gifford, Jr. (Start: 2020-05-14T00:00:00Z)",
+            "George Mu\u00f1oz (Start: 2004-01-01T00:00:00Z)",
+            "Marjorie M. Connelly (Start: 2021-10-27T00:00:00Z)",
+            "Ian L.T. Clarke (Start: 2022-05-19T00:00:00Z)",
+            "M. Max Yzaguirre (Start: 2022-05-19T00:00:00Z)",
+            "Debra J. Kelly-Ennis (Start: 2013-02-26T00:00:00Z)",
+            "R. Matt Davis (Start: 2021-10-27T00:00:00Z)",
+            "Virginia E. Shanks (Start: 2017-05-18T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "MontEdison",
+        "ticker": "MO",
+        "country": [
+            "Italy"
+        ],
+        "industry": [
+            "chemical industry",
+            "agribusiness",
+            "pharmaceutical industry",
+            "petroleum industry",
+            "metal industry",
+            "energy industry",
+            "insurance industry",
+            "publishing industry"
+        ],
+        "aliases": [
+            "Montecatini Edison"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

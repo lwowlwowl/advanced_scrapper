@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "Gilead Sciences",
+        "ticker": "GILD",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "Gilead"
+        ],
+        "products": [
+            "Atripla",
+            "Descovy",
+            "Emtriva",
+            "Epclusa",
+            "Eviplera",
+            "Genvoya",
+            "Harvoni",
+            "Odefsey",
+            "Ranexa",
+            "Stribild",
+            "Truvada",
+            "Tybost",
+            "Viread",
+            "Zydelig",
+            "axicabtagene ciloleucel",
+            "AmBisome",
+            "Complera",
+            "Letairis",
+            "Vemlidy",
+            "Vosevi",
+            "Bictegravir/emtricitabine/tenofovir alafenamide"
+        ],
+        "subsidiaries": [
+            "Gilead Sciences (Australia)",
+            "Gilead Sciences Ltd",
+            "Kite Pharma"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Daniel O'Day (Start: 2019-03-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

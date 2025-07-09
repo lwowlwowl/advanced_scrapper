@@ -1,0 +1,37 @@
+[
+    {
+        "id_label": "American Electric Power",
+        "ticker": "AEP",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electricity generation",
+            "electric power generation, transmission and distribution",
+            "public utility"
+        ],
+        "aliases": [
+            "AEP",
+            "American Electric Power Corporation"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "Southwestern Electric Power Company",
+            "Kentucky Power",
+            "Public Service Company of Oklahoma",
+            "Indiana Michigan Power",
+            "AEP Texas",
+            "AEP Ohio",
+            "Appalachian Power"
+        ],
+        "owned_entities": [
+            "Rockport Power Plant",
+            "John E. Amos Power Plant",
+            "Cardinal Power Plant"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id_label": "Booking Holdings",
+        "ticker": "BKNG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "travel industry"
+        ],
+        "aliases": [
+            "The Priceline Group Inc.",
+            "The Priceline Group",
+            "Priceline Group",
+            "Booking Holdings Inc."
+        ],
+        "products": [
+            "booking.com"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "priceline.com",
+        "ticker": "BKNG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "travel agency"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Rentalcars.com",
+            "priceline.com",
+            "kayak.com",
+            "HotelsCombined",
+            "booking.com",
+            "Agoda",
+            "OpenTable"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

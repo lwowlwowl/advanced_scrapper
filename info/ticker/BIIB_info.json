@@ -1,0 +1,32 @@
+[
+    {
+        "id_label": "Biogen",
+        "ticker": "BIIB",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "Biogen Inc.",
+            "BIIB",
+            "Biogen Idec"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Biogen (Belgium)",
+            "Biogen (Germany)",
+            "Biogen (Switzerland)",
+            "Biogen"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Michel Vounatsos (Start: 2017-01-06T00:00:00Z)",
+            "George Scangos (Start: 2010-07-01T00:00:00Z) (End: 2016-12-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

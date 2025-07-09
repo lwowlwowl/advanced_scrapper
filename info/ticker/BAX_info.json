@@ -1,0 +1,26 @@
+[
+    {
+        "id_label": "Baxter International",
+        "ticker": "BAX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "medical equipment"
+        ],
+        "aliases": [
+            "Baxter International Inc"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Baxter (Belgium)",
+            "Baxter (Austria)",
+            "Gambro"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

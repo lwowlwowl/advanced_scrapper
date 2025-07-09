@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Eastman Chemical Company",
+        "ticker": "EMN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "manufacturing"
+        ],
+        "aliases": [
+            "Eastman"
+        ],
+        "products": [
+            "chemical substance"
+        ],
+        "subsidiaries": [
+            "Eastman Chemical Company (Germany)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

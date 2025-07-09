@@ -1,0 +1,81 @@
+[
+    {
+        "id_label": "General Motors",
+        "ticker": "GM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "automotive industry"
+        ],
+        "aliases": [
+            "General Motors Corporation",
+            "GM"
+        ],
+        "products": [
+            "car"
+        ],
+        "subsidiaries": [
+            "Holden",
+            "Cruise",
+            "General Motors",
+            "GM Global Technology Operations",
+            "General Motors de Chile",
+            "General Motors OBB",
+            "General Motors do Brasil",
+            "General Motors de M\u00e9xico",
+            "General Motors of Argentina",
+            "General Motors India Private Limited",
+            "GM Certified Service",
+            "GM Financial",
+            "GM Defense",
+            "General Motors Colmotores",
+            "OnStar",
+            "Baojun",
+            "General Motors Europe",
+            "UzAuto Motors",
+            "Geo",
+            "General Motors of Canada",
+            "Yellow Coach Manufacturing Company",
+            "General Motors Japan",
+            "Saturn Corporation",
+            "GM Korea",
+            "ACDelco",
+            "GM Performance Power Units",
+            "General Motors (China) Investment",
+            "General Motors China",
+            "General Motors Specialty Vehicles",
+            "Cadillac Europe",
+            "Vauxhall",
+            "Marquette (Start: 1909-01-01T00:00:00Z) (End: 1912-01-01T00:00:00Z)",
+            "GM Uzbekistan (Start: 2008-01-01T00:00:00Z) (End: 2019-01-01T00:00:00Z)",
+            "General Aviation Corp. (Start: 1931-01-01T00:00:00Z) (End: 1934-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Roger Smith (Start: 1981-01-01T00:00:00Z) (End: 1990-01-01T00:00:00Z)",
+            "Mary Barra (Start: 2014-01-15T00:00:00Z)",
+            "Alfred P. Sloan (Start: 1923-01-01T00:00:00Z) (End: 1946-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "William S. Knudsen (Start: 1937-01-01T00:00:00Z) (End: 1940-01-01T00:00:00Z)",
+            "Joanne Crevoiserat (Start: 2022-01-01T00:00:00Z)",
+            "Mark Tatum (Start: 2021-03-25T00:00:00Z)",
+            "Linda R. Gooden (Start: 2015-02-05T00:00:00Z)",
+            "Thomas Schoewe (Start: 2011-11-15T00:00:00Z)",
+            "Aneel Bhusri (Start: 2021-10-05T00:00:00Z)",
+            "Devin Wenig (Start: 2018-04-19T00:00:00Z)",
+            "Jane Mendillo (Start: 2016-06-07T00:00:00Z) (End: 2020-06-01T00:00:00Z)",
+            "Wesley Bush (Start: 2019-02-11T00:00:00Z)",
+            "Joseph Jimenez (Start: 2015-04-24T00:00:00Z)",
+            "Mary Barra (Start: 2014-01-01T00:00:00Z)",
+            "Jami Miscik (Start: 2018-10-10T00:00:00Z)",
+            "Carol Stephenson (Start: 2009-07-20T00:00:00Z)",
+            "Charles Erwin Wilson (End: 1953-01-26T00:00:00Z)",
+            "Charles Erwin Wilson (Start: 1957-01-01T00:00:00Z) (End: 1961-01-01T00:00:00Z)",
+            "Alfred P. Sloan (Start: 1923-01-01T00:00:00Z) (End: 1937-01-01T00:00:00Z)",
+            "Patricia Russo (Start: 2009-01-01T00:00:00Z)",
+            "Meg Whitman (Start: 2021-03-25T00:00:00Z) (End: 2022-07-01T00:00:00Z)"
+        ]
+    }
+]

@@ -101,7 +101,7 @@ def read_and_process_json_files(folder_path):
 # Append matched articles to the CSV file with all matched strings
 
 def append_to_csv(source_name, ticker, matched_names, article):
-    output_file = f'{source_name}_crypto_matched_articles/{ticker}_match.csv'
+    output_file = f'{source_name}_ticker_matched_articles/{ticker}_match.csv'
     write_header = not os.path.exists(output_file)
     article_datetime = parser.parse(article['date_time'])
     unix_timestamp = int(article_datetime.timestamp())
@@ -194,12 +194,12 @@ def sort_matched_csv(file_path):
 if __name__ == '__main__':
     # Read and process JSON files
     source_name = 'yahoo'
-    folder_path = 'info/crypto'
+    folder_path = 'info/ticker'
     processed_data = read_and_process_json_files(folder_path)
 
     # Read the news CSV file
-    news_df = pd.read_csv(f'yahoo_articles_all_20250605.csv')
-    os.makedirs(f'{source_name}_crypto_matched_articles', exist_ok=True)
+    news_df = pd.read_csv(f'yahoo_articles_cleaned.csv')
+    os.makedirs(f'{source_name}_ticker_matched_articles', exist_ok=True)
 
     # Determine the number of processes and split the DataFrame into chunks
     num_processes = mp.cpu_count()
@@ -217,8 +217,8 @@ if __name__ == '__main__':
     pool.join()
 
     # Sort each matched CSV file
-    for file in os.listdir(f"{source_name}_crypto_matched_articles"):
-        sort_matched_csv(f"{source_name}_crypto_matched_articles/{file}")
+    for file in os.listdir(f"{source_name}_ticker_matched_articles"):
+        sort_matched_csv(f"{source_name}_ticker_matched_articles/{file}")
 
     print("All matched CSV files have been sorted by date and time.")
 

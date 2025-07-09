@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "American Water",
+        "ticker": "AWK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "public utility"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "water"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

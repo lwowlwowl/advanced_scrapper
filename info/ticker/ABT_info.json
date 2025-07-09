@@ -1,0 +1,59 @@
+[
+    {
+        "id_label": "Abbott Laboratories",
+        "ticker": "ABT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "medical technology industry"
+        ],
+        "aliases": [
+            "Ross Laboratories",
+            "Isomil",
+            "I-STAT",
+            "I-Stat",
+            "Abbott Pharmaceuticals",
+            "Abbott Molecular",
+            "Abbott Labs",
+            "Abbott Laboratories, Inc.",
+            "Abbot Laboratories",
+            "Abbott Nutrition",
+            "Abbott"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Abbott (Chile)",
+            "Abbott (South Korea)",
+            "Abbott (United Kingdom)",
+            "Abbott (Germany)",
+            "Abbott",
+            "Abbott (Canada)",
+            "Abbott Japan",
+            "Abbott Rapid Diagnostics Jena GmbH"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Robert B. Ford (Start: 2020-01-01T00:00:00Z)",
+            "Miles D. White (Start: 1999-01-01T00:00:00Z) (End: 2020-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Claire Babineaux-Fontenot (Start: 2022-09-15T00:00:00Z)",
+            "William Osborn (Start: 2008-01-02T00:00:00Z) (End: 2023-04-28T00:00:00Z)",
+            "John Stratton (Start: 2017-01-01T00:00:00Z)",
+            "Robert B. Ford (Start: 2019-01-01T00:00:00Z)",
+            "Michelle Kumbier (Start: 2018-01-01T00:00:00Z)",
+            "Sally Blount (Start: 2011-01-01T00:00:00Z)",
+            "Nancy McKinstry (Start: 2011-01-01T00:00:00Z)",
+            "Darren W. McDew (Start: 2019-01-01T00:00:00Z)",
+            "Glenn Tilton (Start: 2007-04-27T00:00:00Z) (End: 2023-04-28T00:00:00Z)",
+            "Daniel Starks (Start: 2017-01-01T00:00:00Z)",
+            "Robert Alpern (Start: 2008-01-01T00:00:00Z)",
+            "Michael G. O'Grady (Start: 2023-04-28T00:00:00Z)",
+            "Mike Roman (Start: 2021-01-01T00:00:00Z)",
+            "Paola Gonzalez (Start: 2021-01-01T00:00:00Z)"
+        ]
+    }
+]

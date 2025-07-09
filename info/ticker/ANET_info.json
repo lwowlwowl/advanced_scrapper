@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Arista Networks",
+        "ticker": "ANET",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "computer network"
+        ],
+        "aliases": [
+            "Arastra"
+        ],
+        "products": [
+            "networking hardware"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

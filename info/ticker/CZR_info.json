@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Caesars Entertainment",
+        "ticker": "CZR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "gambling"
+        ],
+        "aliases": [
+            "Eldorado Resorts, Inc.",
+            "Eldorado Resorts LLC",
+            "Eldorado Resorts",
+            "Caesars Entertainment, Inc."
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

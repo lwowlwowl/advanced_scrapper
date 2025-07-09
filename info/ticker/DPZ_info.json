@@ -1,0 +1,32 @@
+[
+    {
+        "id_label": "Domino's Pizza",
+        "ticker": "DPZ",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Domino's Pizza, Inc.",
+            "Domino's"
+        ],
+        "products": [
+            "pizza"
+        ],
+        "subsidiaries": [
+            "Domino's Pizza Israel",
+            "Domino's Pizza Group plc",
+            "Domino's Pizza Deutschland"
+        ],
+        "owned_entities": [
+            "Tom Monaghan's Leaning Tower of Pizza"
+        ],
+        "ceos": [
+            "Russell J. Weiner (Start: 2023-01-01T00:00:00Z)",
+            "J. Patrick Doyle"
+        ],
+        "board_members": []
+    }
+]

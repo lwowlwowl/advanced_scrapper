@@ -1,0 +1,46 @@
+[
+    {
+        "id_label": "Cardinal Health",
+        "ticker": "CAH",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "health care"
+        ],
+        "aliases": [
+            "CardinalHealth",
+            "Cardinal Health, Inc.",
+            "Cardinal Health Incorporated",
+            "Cardinal Health Inc.",
+            "Cardinal Health (United States)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Cardinal Health (Australia)",
+            "Cardinal Health (Switzerland)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Carrie Cox (Start: 2009-12-02T00:00:00Z)",
+            "Steven Barg (Start: 2022-09-01T00:00:00Z)",
+            "Patricia Hemingway Hall (Start: 2013-01-01T00:00:00Z)",
+            "Mike Kaufmann (Start: 2018-01-01T00:00:00Z) (End: 2022-08-01T00:00:00Z)",
+            "Dean A. Scarborough (Start: 2019-09-01T00:00:00Z)",
+            "Suja Chandrasekaran (Start: 2022-09-01T00:00:00Z)",
+            "Akhil Johri (Start: 2018-02-07T00:00:00Z)",
+            "Nancy Killefer (Start: 2015-09-14T00:00:00Z)",
+            "Michelle Brennan (Start: 2022-09-01T00:00:00Z)",
+            "John Weiland (Start: 2019-09-01T00:00:00Z)",
+            "Bruce Downey (Start: 2009-01-01T00:00:00Z)",
+            "Dave Evans (Start: 2020-07-01T00:00:00Z)",
+            "Sheri Edison (Start: 2020-09-01T00:00:00Z)",
+            "Jason Hollar (Start: 2022-09-01T00:00:00Z)",
+            "Christine Mundkur (Start: 2022-09-01T00:00:00Z)",
+            "Gregory Kenny (Start: 2007-01-01T00:00:00Z)"
+        ]
+    }
+]

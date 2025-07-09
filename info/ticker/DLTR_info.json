@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Dollar Tree",
+        "ticker": "DLTR",
+        "country": [
+            "United States",
+            "Canada"
+        ],
+        "industry": [
+            "retail"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Macon Foscue Brock, Jr."
+        ],
+        "board_members": []
+    }
+]

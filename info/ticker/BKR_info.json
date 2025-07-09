@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Baker Hughes",
+        "ticker": "BKR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            "Baker Hughes Co."
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Baker Hughes (United Kingdom)",
+            "Baker Hughes (Norway)",
+            "Baker Hughes (Canada)",
+            "BJ Services Company",
+            "Hughes Tool Company"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

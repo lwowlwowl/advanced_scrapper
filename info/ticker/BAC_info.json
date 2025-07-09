@@ -1,0 +1,69 @@
+[
+    {
+        "id_label": "Bank of America",
+        "ticker": "BAC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial sector",
+            "financial services",
+            "International Standard Industrial Classification"
+        ],
+        "aliases": [
+            "BANK OF AMERICA CORPORATION (Charlotte, NC)",
+            "Bank of America Corporation",
+            "BofA",
+            "BoA"
+        ],
+        "products": [
+            "asset management",
+            "credit",
+            "financial services",
+            "insurance"
+        ],
+        "subsidiaries": [
+            "Incapital",
+            "1st Franklin Financial",
+            "Endeavour Foundation",
+            "Bank of America Merrill Lynch",
+            "Merrill",
+            "Seafirst Bank (Start: 1983-01-01T00:00:00Z) (End: 1999-09-27T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Bank of America Tower",
+            "Merrill",
+            "Bank of America Plaza",
+            "Bank of America Financial Center",
+            "TC Energy Center",
+            "Second Severn Crossing",
+            "108 North State Street",
+            "Bank of America Center",
+            "Fifth Third Center",
+            "Stephen Sondheim Theatre"
+        ],
+        "ceos": [
+            "Brian Moynihan"
+        ],
+        "board_members": [
+            "Michael D. White (Start: 2016-01-01T00:00:00Z)",
+            "Pierre de Weck (Start: 2013-01-01T00:00:00Z)",
+            "David Yost (Start: 2012-01-01T00:00:00Z)",
+            "Frank Bramble (Start: 2006-01-01T00:00:00Z)",
+            "Tom Woods (Start: 2016-01-01T00:00:00Z)",
+            "Lionel Nowell (Start: 2013-01-01T00:00:00Z)",
+            "Denise Ramos (Start: 2019-01-01T00:00:00Z)",
+            "Clayton Rose (Start: 2018-01-01T00:00:00Z)",
+            "Clayton Rose (Start: 2013-01-01T00:00:00Z) (End: 2015-01-01T00:00:00Z)",
+            "Tom May (Start: 2004-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Sharon Allen (Start: 2012-01-01T00:00:00Z)",
+            "Joe Almeida (Start: 2022-09-14T00:00:00Z)",
+            "Monica C. Lozano (Start: 2006-01-01T00:00:00Z)",
+            "Maria T. Zuber (Start: 2017-01-01T00:00:00Z)",
+            "Linda Hudson (Start: 2012-01-01T00:00:00Z)",
+            "Brian Moynihan (Start: 2010-01-01T00:00:00Z)",
+            "Arnold W. Donald (Start: 2013-01-01T00:00:00Z)",
+            "Susan Bies (Start: 2009-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)"
+        ]
+    }
+]

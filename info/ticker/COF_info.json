@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "Capital One",
+        "ticker": "COF",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Capital One Services, LLC  (McLean, VA)",
+            "CAPITAL ONE SERVICES, LLC     (McLean, VA)",
+            "Capital One Financial Corporation",
+            "Capital One Financial Corp.",
+            "Capital One Financial"
+        ],
+        "products": [
+            "retail banking"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Richard Fairbank (Start: 1994-07-26T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "CENTURIA OFFICE REIT",
+        "ticker": "COF",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

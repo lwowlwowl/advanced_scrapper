@@ -1,0 +1,26 @@
+[
+    {
+        "id_label": "Fortinet",
+        "ticker": "FTNT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "computer security"
+        ],
+        "aliases": [
+            "FTNT",
+            "Fortinet, Inc.",
+            "Fortinet Inc.",
+            "ftn"
+        ],
+        "products": [
+            "software",
+            "networking hardware"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

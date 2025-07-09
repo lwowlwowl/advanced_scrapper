@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "EPAM Systems",
+        "ticker": "EPAM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software industry",
+            "outsourcing",
+            "consultation"
+        ],
+        "aliases": [
+            "EPAM Systems, Inc.",
+            "EPAM"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "EPAM Systems (Lithuania)",
+            "EPAM Systems (Belarus)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

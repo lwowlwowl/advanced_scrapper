@@ -1,0 +1,32 @@
+[
+    {
+        "id_label": "GE HealthCare",
+        "ticker": "GEHC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electronics",
+            "medical technology industry",
+            "health care",
+            "manufacturing"
+        ],
+        "aliases": [
+            "GE Medical Systems"
+        ],
+        "products": [
+            "positron emission tomography"
+        ],
+        "subsidiaries": [
+            "GE Healthcare (India)",
+            "GE Healthcare",
+            "GE Healthcare (Netherlands)",
+            "GE Medical Systems Global Technology",
+            "GE Healthcare Japan",
+            "GE Healthcare (Austria)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

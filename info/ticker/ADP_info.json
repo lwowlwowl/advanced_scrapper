@@ -1,0 +1,66 @@
+[
+    {
+        "id_label": "Automatic Data Processing",
+        "ticker": "ADP",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "human resource management"
+        ],
+        "aliases": [
+            "Automatic Data Processing, Inc.",
+            "Automatic Data Processing Inc",
+            "ADP"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Time Sharing Limited"
+        ],
+        "ceos": [
+            "Maria Black"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Groupe ADP",
+        "ticker": "ADP",
+        "country": [
+            "France"
+        ],
+        "industry": [
+            "fixed-base operator"
+        ],
+        "aliases": [
+            "Airports of Paris",
+            "A\u00e9roports de Paris",
+            "Aeroports de Paris",
+            "ADP"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Fondation Groupe ADP",
+            "Hub One"
+        ],
+        "owned_entities": [
+            "Paris-Charles de Gaulle Airport",
+            "Terminal 3 - Roissypole",
+            "Orly Airport",
+            "Satellite S3",
+            "Hub One",
+            "Car park PX",
+            "Car park PR",
+            "Terminal 1 (CDGVAL station)",
+            "Terminal 2E",
+            "Satellite S4",
+            "Paris A\u00e9roport"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

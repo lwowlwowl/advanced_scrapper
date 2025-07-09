@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "The Cooper Companies",
+        "ticker": "COO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "medical device"
+        ],
+        "aliases": [
+            "The Cooper Companies, Inc",
+            "CooperCompanies",
+            "Cooper Companies"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "CooperVision",
+            "CooperSurgical (United States)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

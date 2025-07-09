@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Ameren",
+        "ticker": "AEE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electric power industry",
+            "public utility",
+            "energy industry"
+        ],
+        "aliases": [
+            "Ameren Corporation"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "Ameren Missouri",
+            "Ameren Illinois"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

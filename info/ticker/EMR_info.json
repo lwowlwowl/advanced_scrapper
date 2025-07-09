@@ -1,0 +1,56 @@
+[
+    {
+        "id_label": "Emerson Electric",
+        "ticker": "EMR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electrical industry"
+        ],
+        "aliases": [
+            "EMRSN",
+            "Emerson Electric Company",
+            "Emerson Electric Co.",
+            "Emerson Electric Co",
+            "EMR",
+            "Emerson"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "ALCO Controls",
+            "Emerson (Sweden)",
+            "Emerson (China)",
+            "Emerson (Germany)",
+            "Aventics GmbH",
+            "InSinkErator",
+            "Emerson International Holding Company Limited",
+            "Emerson Electric Nederland B.V."
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "EMERALD RESOURCES NL",
+        "ticker": "EMR",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id_label": "Dexus",
+        "ticker": "DXC",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Dexus Property Group",
+            "DEXUS CONVENIENCE RETAIL REIT",
+            "DEXUS"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "DXC Technology",
+        "ticker": "DXC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "quaternary sector of the economy"
+        ],
+        "aliases": [
+            "dxc",
+            "DXC.technology",
+            "DXC Technology Services LLC",
+            "DXC"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

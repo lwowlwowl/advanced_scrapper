@@ -1,0 +1,105 @@
+[
+    {
+        "id_label": "Hasbro",
+        "ticker": "HAS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "game industry"
+        ],
+        "aliases": [
+            "Hassenfeld Brothers and Hasbro Bradley",
+            "Hassenfeld Brothers",
+            "Hasbro, Inc.",
+            "Hasbro Inc.",
+            "Hasbro Bradley"
+        ],
+        "products": [
+            "board game",
+            "card game",
+            "video game",
+            "toy",
+            "role-playing game",
+            "sports equipment",
+            "electronic game",
+            "wargame",
+            "tabletop role-playing game"
+        ],
+        "subsidiaries": [
+            "OddzOn",
+            "Cranium, Inc.",
+            "Playskool",
+            "FurReal Friends",
+            "Claster Television",
+            "Allspark",
+            "Milton Bradley Company",
+            "Parker Brothers",
+            "Wizards of the Coast",
+            "Tiger Electronics",
+            "Hasbro Entertainment",
+            "Hasbro Interactive (Start: 1995-01-01T00:00:00Z) (End: 2001-01-29T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Hasbro Entertainment",
+            "Tiger Electronics",
+            "Discovery Family",
+            "Avalon Hill",
+            "Wizards of the Coast",
+            "Parker Brothers",
+            "Tonka",
+            "Kenner Products",
+            "Nerf",
+            "Milton Bradley Company",
+            "Rom",
+            "Littlest Pet Shop",
+            "Allspark",
+            "Zbots",
+            "Playskool"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Hays plc",
+        "ticker": "HAS",
+        "country": [
+            "United Kingdom"
+        ],
+        "industry": [
+            "employment services industry"
+        ],
+        "aliases": [
+            "hays.com"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "HASTINGS TECHNOLOGY METALS LTD",
+        "ticker": "HAS",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Vince Catania (Start: 2025-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

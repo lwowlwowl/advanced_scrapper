@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Boston Scientific",
+        "ticker": "BSX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Boston Scientific Corporation",
+            "BSC"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Boston Scientific (Barbados)",
+            "Boston Scientific Technology",
+            "Boston Scientific Scimed"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

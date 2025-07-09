@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "CBRE Group",
+        "ticker": "CBRE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate economics"
+        ],
+        "aliases": [
+            "CBRE Group, Inc."
+        ],
+        "products": [
+            "commercial property"
+        ],
+        "subsidiaries": [
+            "Trammell Crow Company",
+            "Insignia Financial Group"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

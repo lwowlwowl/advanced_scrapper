@@ -1,0 +1,68 @@
+[
+    {
+        "id_label": "Centene Corporation",
+        "ticker": "CNC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "health care"
+        ],
+        "aliases": [
+            "Centene"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Envolve Health",
+            "Magellan Health",
+            "Fidelis Care",
+            "Circle Health Group",
+            "Health Net"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Michael F. Neidorff (Start: 1996-05-01T00:00:00Z) (End: 2022-03-01T00:00:00Z)",
+            "Sarah London (Start: 2022-03-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "John Roberts (Start: 2004-03-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Jessica Blume (Start: 2018-02-01T00:00:00Z)",
+            "Sarah London (Start: 2021-09-07T00:00:00Z)",
+            "James Dallas (Start: 2020-01-01T00:00:00Z)",
+            "Chris Coughlin (Start: 2022-01-05T00:00:00Z)",
+            "Ted Samuels (Start: 2022-01-05T00:00:00Z)",
+            "Robert Ditmore (Start: 1996-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Frederick Eppinger (Start: 2006-04-01T00:00:00Z)",
+            "Bill Trubeck (Start: 2020-01-01T00:00:00Z)",
+            "Orlando Ayala (Start: 2011-09-01T00:00:00Z)",
+            "Wayne DeVeydt (Start: 2022-01-05T00:00:00Z)",
+            "Ken Burdick (Start: 2022-01-05T00:00:00Z)",
+            "Michael F. Neidorff (Start: 1996-05-01T00:00:00Z) (End: 2022-04-01T00:00:00Z)",
+            "Dick Gephardt (Start: 2006-12-01T00:00:00Z)",
+            "Lori Robinson (Start: 2019-10-22T00:00:00Z)",
+            "Tommy Thompson (Start: 2005-04-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "Concurrent Technologies Corporation",
+        "ticker": "CNC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

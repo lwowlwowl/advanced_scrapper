@@ -1,0 +1,61 @@
+[
+    {
+        "id_label": "EssilorLuxottica",
+        "ticker": "EL",
+        "country": [
+            "France"
+        ],
+        "industry": [
+            "glasses manufacturing"
+        ],
+        "aliases": [
+            "EssiLux",
+            "EssilorLuxottica SA"
+        ],
+        "products": [
+            "eyewear"
+        ],
+        "subsidiaries": [
+            "Le Labo",
+            "Jo Malone London",
+            "Origins Natural Resources, Inc.",
+            "Aveda",
+            "Bumble and bumble",
+            "Clinique Laboratories, LLC",
+            "Make-up Art Cosmetics",
+            "The Cosmetics Company Store",
+            "DECIEM",
+            "Tom Ford",
+            "Bobbi Brown",
+            "Dr. Jart+"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Est\u00e9e Lauder Companies",
+        "ticker": "EL",
+        "country": [
+            "France",
+            "United States"
+        ],
+        "industry": [
+            "cosmetics industry"
+        ],
+        "aliases": [
+            "Estee Lauder Companies",
+            "Estee Lauder"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Luxottica",
+            "Essilor"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

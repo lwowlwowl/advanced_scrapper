@@ -1,0 +1,60 @@
+[
+    {
+        "id_label": "Adobe",
+        "ticker": "ADBE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "artificial intelligence",
+            "information technology",
+            "software industry",
+            "software development"
+        ],
+        "aliases": [
+            "adobe.com",
+            "Adobe Systems, Inc.",
+            "Adobe Systems Software(Beijing)Co.,Ltd.",
+            "Adobe Systems Incorporated",
+            "Adobe Systems",
+            "ADOBE INC. (San Jose, CA)",
+            "Adobe Inc.",
+            "ADBE"
+        ],
+        "products": [
+            "software"
+        ],
+        "subsidiaries": [
+            "Adobe Creative Cloud",
+            "Marketo"
+        ],
+        "owned_entities": [
+            "Day Software",
+            "acrobat.com",
+            "Adobe World Headquarters",
+            "Behance",
+            "Livefyre",
+            "Scene7",
+            "WebPlatform"
+        ],
+        "ceos": [
+            "Shantanu Narayen (Start: 2007-12-01T00:00:00Z)",
+            "John Warnock (Start: 1984-01-01T00:00:00Z) (End: 2000-01-01T00:00:00Z)",
+            "Bruce Chizen (Start: 2000-01-01T00:00:00Z) (End: 2007-12-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Spencer Neumann (Start: 2022-01-07T00:00:00Z)",
+            "Amy Banse (Start: 2012-05-14T00:00:00Z)",
+            "Cristiano Amon (Start: 2023-10-25T00:00:00Z)",
+            "Laura Desmond (Start: 2012-05-14T00:00:00Z)",
+            "Shantanu Narayen (Start: 2007-12-01T00:00:00Z)",
+            "Kathleen Oberg (Start: 2019-01-22T00:00:00Z)",
+            "Dheeraj Pandey (Start: 2019-01-22T00:00:00Z)",
+            "Dan Rosensweig (Start: 2009-01-12T00:00:00Z)",
+            "Melanie Boulden (Start: 2020-10-02T00:00:00Z)",
+            "Frank Calderoni (Start: 2012-05-14T00:00:00Z)",
+            "David A. Ricks (Start: 2018-04-12T00:00:00Z)",
+            "Brett Biggs (Start: 2022-01-07T00:00:00Z)"
+        ]
+    }
+]

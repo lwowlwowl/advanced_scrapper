@@ -1,0 +1,42 @@
+[
+    {
+        "id_label": "American International Group",
+        "ticker": "AIG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "American International Group, Inc.",
+            "AIG"
+        ],
+        "products": [
+            "insurance contract"
+        ],
+        "subsidiaries": [
+            "AIA Philippines",
+            "AIG Japan Holdings Co., Ltd."
+        ],
+        "owned_entities": [
+            "AIA Central",
+            "American General Center"
+        ],
+        "ceos": [
+            "Peter Zaffino"
+        ],
+        "board_members": [
+            "Douglas Steenland (Start: 2009-01-01T00:00:00Z)",
+            "William Jurgensen (Start: 2013-01-01T00:00:00Z)",
+            "Tom Motamed (Start: 2019-01-01T00:00:00Z)",
+            "Linda Mills (Start: 2015-01-01T00:00:00Z)",
+            "Peter Zaffino (Start: 2020-01-01T00:00:00Z)",
+            "Terri Vaughan (Start: 2019-01-01T00:00:00Z)",
+            "Peter Porrino (Start: 2019-01-01T00:00:00Z)",
+            "James Cole Jr. (Start: 2021-03-15T00:00:00Z)",
+            "John Rice (Start: 2022-03-17T00:00:00Z)",
+            "W. Don Cornwell (Start: 2011-01-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id_label": "Eli Lilly and Company",
+        "ticker": "LLY",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "Eli Lily",
+            "Lilly"
+        ],
+        "products": [
+            "medication"
+        ],
+        "subsidiaries": [
+            "Eli Lilly",
+            "Eli Lilly (Singapore)",
+            "Lilly (China)",
+            "Eli Lilly (India)",
+            "Eli Lilly (Germany)",
+            "Eli Lilly (Canada)",
+            "Eli Lilly (United Kingdom)",
+            "Lilly France"
+        ],
+        "owned_entities": [
+            "Norfolk House, Basingstoke"
+        ],
+        "ceos": [
+            "David A. Ricks (Start: 2017-01-01T00:00:00Z)",
+            "Randall L. Tobias (Start: 1993-01-01T00:00:00Z) (End: 1998-06-30T00:00:00Z)",
+            "John C. Lechleiter (Start: 2008-04-01T00:00:00Z) (End: 2016-12-31T00:00:00Z)",
+            "Sidney Taurel (Start: 1998-07-01T00:00:00Z) (End: 2008-03-31T00:00:00Z)"
+        ],
+        "board_members": [
+            "Karen Walker (Start: 2018-12-01T00:00:00Z)",
+            "Marschall Stevens Runge (Start: 2013-09-01T00:00:00Z)",
+            "Jamere Jackson (Start: 2016-10-01T00:00:00Z)",
+            "David A. Ricks (Start: 2017-01-01T00:00:00Z)",
+            "Gabrielle Sulzberger (Start: 2021-01-25T00:00:00Z)",
+            "Kimberly H. Johnson (Start: 2021-02-16T00:00:00Z)",
+            "Mary Lynne Hedley (Start: 2022-05-15T00:00:00Z)",
+            "Juan R. Luciano (Start: 2016-02-01T00:00:00Z)",
+            "Ralph Alvarez (Start: 2009-04-01T00:00:00Z)",
+            "Katherine Baicker (Start: 2011-12-12T00:00:00Z)",
+            "Erik Fyrwald (Start: 2005-11-01T00:00:00Z)",
+            "William G. Kaelin (Start: 2012-06-04T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_label": "Consolidated Edison",
+        "ticker": "ED",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "energy industry"
+        ],
+        "aliases": [
+            "Consolidated Edison, Inc.",
+            "Con Edison",
+            "Con Ed"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "Consolidated Edison Company of New York"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

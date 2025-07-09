@@ -1,0 +1,42 @@
+[
+    {
+        "id_label": "Api Finance Limited",
+        "ticker": "AFL",
+        "country": [
+            "Nepal"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Aflac",
+        "ticker": "AFL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "American Family Life Assurance Company"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

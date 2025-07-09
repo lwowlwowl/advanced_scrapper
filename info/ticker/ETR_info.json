@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Entergy",
+        "ticker": "ETR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "energy company"
+        ],
+        "aliases": [
+            "Entergy Corporation"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Entergy New Orleans",
+            "Entergy Louisiana"
+        ],
+        "owned_entities": [
+            "White Bluff Power Plant"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "CVS Health",
+        "ticker": "CVS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "retail"
+        ],
+        "aliases": [
+            "CVS Health (United States)"
+        ],
+        "products": [
+            "health insurance"
+        ],
+        "subsidiaries": [
+            "Longs Drugs",
+            "MinuteClinic",
+            "CVS Caremark",
+            "Aetna",
+            "Drogaria Onofre (Start: 2013-02-01T00:00:00Z) (End: 2019-02-01T00:00:00Z)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Larry Merlo (Start: 2011-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Larry Merlo (Start: 2010-01-01T00:00:00Z) (End: 2021-05-31T00:00:00Z)",
+            "Nancy-Ann DeParle (Start: 2013-01-01T00:00:00Z)",
+            "William C. Weldon (Start: 2013-01-01T00:00:00Z)",
+            "Mary Lovelace Schapiro (Start: 2017-05-01T00:00:00Z)",
+            "Jean-Pierre Millon (Start: 2007-03-01T00:00:00Z)",
+            "Tony L. White (Start: 2011-03-01T00:00:00Z) (End: 2022-05-11T00:00:00Z)",
+            "Anne Finucane (Start: 2011-01-01T00:00:00Z)",
+            "Fernando Aguirre (Start: 2018-11-01T00:00:00Z)",
+            "C. David Brown II (Start: 2007-03-01T00:00:00Z)",
+            "Alecia A. DeCoudreaux (Start: 2015-03-01T00:00:00Z)",
+            "Edward J. Ludwig (Start: 2018-11-01T00:00:00Z)",
+            "Richard M. Bracken (Start: 2015-01-01T00:00:00Z) (End: 2020-05-14T00:00:00Z)",
+            "Roger N. Farah (Start: 2018-11-01T00:00:00Z)",
+            "Mark T. Bertolini (Start: 2018-01-01T00:00:00Z) (End: 2020-02-01T00:00:00Z)",
+            "Karen S. Lynch (Start: 2021-02-01T00:00:00Z)",
+            "Richard J. Swift (Start: 2006-01-01T00:00:00Z) (End: 2020-01-01T00:00:00Z)",
+            "David Dorman (Start: 2006-01-01T00:00:00Z) (End: 2022-05-11T00:00:00Z)"
+        ]
+    }
+]

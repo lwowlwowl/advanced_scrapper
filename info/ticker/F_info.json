@@ -1,0 +1,98 @@
+[
+    {
+        "id_label": "Ford Motor Company",
+        "ticker": "F",
+        "country": [
+            "Germany",
+            "United States"
+        ],
+        "industry": [
+            "automotive industry"
+        ],
+        "aliases": [
+            "Ford Motors",
+            "Ford Motor Corporation",
+            "Ford Motor Co.",
+            "Ford Motor",
+            "FoMoCo",
+            "Ford"
+        ],
+        "products": [
+            "passenger car",
+            "truck"
+        ],
+        "subsidiaries": [
+            "Ford Ireland",
+            "Ford of Mexico",
+            "Ford Global Technologies",
+            "Ford of Spain",
+            "Ford Motor Company Philippines",
+            "Ford New Zealand",
+            "Ford Air Transport Service",
+            "Ford do Brasil",
+            "Ford Australia",
+            "Ford Motor Company of Canada",
+            "Ford of South Africa",
+            "Ford Argentina",
+            "Ford Germany",
+            "Ford of Europe",
+            "Ford Motor Ib\u00e9rica (Start: 1929-01-01T00:00:00Z) (End: 1954-01-01T00:00:00Z)",
+            "Ford Motor Company of Japan (Start: 1925-01-01T00:00:00Z) (End: 2016-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Mercury (Start: 1938-01-01T00:00:00Z) (End: 2011-01-01T00:00:00Z)",
+            "Lincoln Motor Company",
+            "Carrozzeria Ghia",
+            "Samcor",
+            "Ford Union",
+            "Sterling Trucks",
+            "Ford Motor Credit Company",
+            "Troller Ve\u00edculos Especiais",
+            "Michigan Central Station",
+            "Ford Otosan",
+            "Flat Rock Assembly Plant",
+            "Ford Lio Ho Motor",
+            "Ford Motor Company Lamp Factory",
+            "SS William Clay Ford",
+            "Roosevelt Warehouse",
+            "Changan Ford Mazda",
+            "Ford Rotunda",
+            "Ford Sollers",
+            "Ford World Headquarters",
+            "Ford",
+            "Vignale"
+        ],
+        "ceos": [
+            "John S. Gray (Start: 1903-01-01T00:00:00Z) (End: 1906-01-01T00:00:00Z)",
+            "Henry Ford II (Start: 1945-09-01T00:00:00Z) (End: 1979-09-01T00:00:00Z)",
+            "James Hackett (Start: 2017-05-01T00:00:00Z) (End: 2020-09-01T00:00:00Z)",
+            "Harold Arthur Poling (Start: 1990-03-01T00:00:00Z) (End: 1993-11-01T00:00:00Z)",
+            "Jim Farley (Start: 2020-10-01T00:00:00Z)",
+            "Henry Ford (Start: 1906-01-01T00:00:00Z) (End: 1945-01-01T00:00:00Z)",
+            "Alan Mulally (Start: 2006-09-01T00:00:00Z) (End: 2014-06-01T00:00:00Z)",
+            "William Clay Ford (Start: 2001-10-01T00:00:00Z) (End: 2006-09-01T00:00:00Z)",
+            "Alexander Trotman, Baron Trotman (Start: 1993-11-01T00:00:00Z) (End: 1998-12-01T00:00:00Z)",
+            "Jacques Nasser (Start: 1999-01-01T00:00:00Z) (End: 2001-10-01T00:00:00Z)",
+            "Mark Fields (Start: 2014-07-01T00:00:00Z) (End: 2017-05-21T00:00:00Z)",
+            "Donald Petersen (Start: 1985-02-01T00:00:00Z) (End: 1990-02-01T00:00:00Z)",
+            "Philip Caldwell (Start: 1979-10-01T00:00:00Z) (End: 1985-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Beth E. Mooney (Start: 2019-07-01T00:00:00Z)",
+            "Lynn Vojvodich (Start: 2017-04-01T00:00:00Z)",
+            "Jim Farley (Start: 2020-10-01T00:00:00Z)",
+            "John May (Start: 2021-12-01T00:00:00Z)",
+            "Kimberly Casiano (Start: 2003-01-01T00:00:00Z)",
+            "Anthony Earley (Start: 2009-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "John B. Veihmeyer (Start: 2017-12-01T00:00:00Z)",
+            "John L. Thornton (Start: 1996-01-01T00:00:00Z)",
+            "Henry Ford III (Start: 2021-05-01T00:00:00Z)",
+            "John Weinberg (Start: 2016-10-01T00:00:00Z)",
+            "Bill Helman (Start: 2011-01-01T00:00:00Z)",
+            "Alexandra Ford English (Start: 2021-05-01T00:00:00Z)",
+            "William Clay Ford (Start: 1988-01-01T00:00:00Z)",
+            "Jon Huntsman, Jr. (Start: 2021-05-01T00:00:00Z)",
+            "William Kennard (Start: 2015-01-01T00:00:00Z)"
+        ]
+    }
+]

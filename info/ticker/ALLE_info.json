@@ -1,0 +1,35 @@
+[
+    {
+        "id_label": "Allegion",
+        "ticker": "ALLE",
+        "country": [
+            "Ireland"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Bricard"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "John H. Stone (Start: 2022-07-11T00:00:00Z)"
+        ],
+        "board_members": [
+            "Nicole Parent Haughey (Start: 2017-09-06T00:00:00Z)",
+            "Lauren B. Peters (Start: 2021-07-13T00:00:00Z)",
+            "Ellen Rubin (Start: 2023-04-13T00:00:00Z)",
+            "Steven C. Mizell (Start: 2020-02-06T00:00:00Z)",
+            "Susan L. Main (Start: 2023-09-09T00:00:00Z)",
+            "Kirk S. Hachigian (Start: 2013-11-17T00:00:00Z)",
+            "Dev Vardhan (Start: 2020-10-27T00:00:00Z)",
+            "John H. Stone (Start: 2022-07-11T00:00:00Z)"
+        ]
+    }
+]

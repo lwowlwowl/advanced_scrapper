@@ -1,0 +1,80 @@
+[
+    {
+        "id_label": "Garmin",
+        "ticker": "GRMN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "consumer electronics",
+            "software industry"
+        ],
+        "aliases": [
+            "Garmin Corp."
+        ],
+        "products": [
+            "software",
+            "GPS navigation device",
+            "wristwatch"
+        ],
+        "subsidiaries": [
+            "Garmin (United Kingdom)"
+        ],
+        "owned_entities": [
+            "Tacx",
+            "Navigon"
+        ],
+        "ceos": [
+            "Gary Burrell (Start: 1989-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Garmin Ltd.",
+        "ticker": "GRMN",
+        "country": [
+            "Switzerland"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Garmin Switzerland",
+            "Garmin AG",
+            "Garmin (Switzerland)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Garmin International, Inc.",
+            "Garmin Canada Inc.",
+            "AeroData",
+            "Tacx",
+            "Firstbeat Analytics Oy"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Garmin Cayman",
+        "ticker": "GRMN",
+        "country": [
+            "Cayman Islands"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Garmin Ltd."
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

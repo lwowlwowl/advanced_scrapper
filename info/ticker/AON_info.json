@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Aon plc",
+        "ticker": "AON",
+        "country": [
+            "United Kingdom"
+        ],
+        "industry": [
+            "professional service"
+        ],
+        "aliases": [
+            "Aon Corporation"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Aon Center",
+            "Aon Hewitt",
+            "Benfield Group",
+            "Hewitt Associates"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

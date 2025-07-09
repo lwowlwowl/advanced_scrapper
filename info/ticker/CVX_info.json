@@ -1,0 +1,51 @@
+[
+    {
+        "id_label": "Chevron Corporation",
+        "ticker": "CVX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            "Standard Oil of California",
+            "Chevron M\u00e9xico",
+            "Chevron"
+        ],
+        "products": [
+            "petroleum"
+        ],
+        "subsidiaries": [
+            "ExtraMile",
+            "Chevron (Australia)",
+            "Chevron (Canada)",
+            "Chevron (Netherlands)",
+            "Texaco"
+        ],
+        "owned_entities": [
+            "Texaco",
+            "1500 Louisiana Street",
+            "Chevron Phillips Chemical",
+            "Coalinga Solar Power Plant"
+        ],
+        "ceos": [
+            "Mike Wirth"
+        ],
+        "board_members": [
+            "Mike Wirth (Start: 2017-02-01T00:00:00Z)",
+            "Jim Umpleby (Start: 2018-03-01T00:00:00Z)",
+            "Wanda Austin (Start: 2016-12-01T00:00:00Z)",
+            "Cynthia Warner (Start: 2022-06-01T00:00:00Z)",
+            "Debra Reed (Start: 2018-12-01T00:00:00Z)",
+            "Jon Huntsman, Jr. (Start: 2020-09-01T00:00:00Z)",
+            "Dambisa Moyo, Baroness Moyo (Start: 2016-10-01T00:00:00Z)",
+            "Alice Gast (Start: 2012-12-01T00:00:00Z)",
+            "Marillyn Hewson (Start: 2021-01-01T00:00:00Z)",
+            "Ronald Sugar (Start: 2005-04-01T00:00:00Z)",
+            "John B. Frank (Start: 2017-11-01T00:00:00Z)",
+            "Enrique Hernandez, Jr. (Start: 2008-12-01T00:00:00Z)",
+            "Charles Moorman (Start: 2012-05-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Edison International",
+        "ticker": "EIX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electricity generation"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "Edison Mission Energy",
+            "Southern California Edison"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

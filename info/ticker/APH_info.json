@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "Amphenol",
+        "ticker": "APH",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electronics"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "electrical connector"
+        ],
+        "subsidiaries": [
+            "Amphenol (France)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Alliance Pharma PLC",
+        "ticker": "APH",
+        "country": [
+            "United Kingdom"
+        ],
+        "industry": [
+            "health care",
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "Alliance Pharmaceuticals",
+            "Alliance Pharma"
+        ],
+        "products": [
+            "personal care product",
+            "Kelo-Cote",
+            "Vamousse"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

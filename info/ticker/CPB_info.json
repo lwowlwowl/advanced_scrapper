@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "Campbell's",
+        "ticker": "CPB",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "food industry",
+            "food and tobacco industry"
+        ],
+        "aliases": [
+            "The Campbell's Company",
+            "Campbell Soup Company",
+            "Campbells"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Snyder's-Lance"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Denise Morrison"
+        ],
+        "board_members": []
+    }
+]

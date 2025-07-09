@@ -1,0 +1,69 @@
+[
+    {
+        "id_label": "Cisco",
+        "ticker": "CSCO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "telecommunications"
+        ],
+        "aliases": [
+            "cisco.com",
+            "Cisco Systems, Inc.",
+            "Cisco Systems"
+        ],
+        "products": [
+            "software",
+            "network switch",
+            "router",
+            "set-top box",
+            "Cable modem termination system",
+            "networking hardware",
+            "wireless access point",
+            "cable modem",
+            "gateway"
+        ],
+        "subsidiaries": [
+            "Tandberg",
+            "NDS Group",
+            "Webex by Cisco",
+            "Linksys (Start: 2003-03-01T00:00:00Z) (End: 2013-03-01T00:00:00Z)",
+            "Cisco Systems (China)",
+            "Cisco Systems (Norway)",
+            "Cisco Systems (Canada)",
+            "Cisco Systems (Netherlands)",
+            "StrataCom",
+            "Starent Networks",
+            "Cerent Corporation",
+            "AppDynamics",
+            "Scientific Atlanta",
+            "Cisco Meraki",
+            "Sourcefire"
+        ],
+        "owned_entities": [
+            "OpenDNS",
+            "Linksys",
+            "InfoGear",
+            "Navini Networks"
+        ],
+        "ceos": [
+            "Chuck Robbins",
+            "John Morgridge (Start: 1988-01-01T00:00:00Z) (End: 1995-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Marianna Tessel (Start: 2021-03-01T00:00:00Z)",
+            "John Harris (Start: 2021-01-01T00:00:00Z)",
+            "Roderick C. McGeary (Start: 2003-07-01T00:00:00Z)",
+            "Chuck Robbins (Start: 2015-07-01T00:00:00Z)",
+            "Sarah Rae Murphy (Start: 2022-08-24T00:00:00Z)",
+            "Brent Saunders (Start: 2017-03-01T00:00:00Z)",
+            "Mark Garrett (Start: 2018-04-01T00:00:00Z)",
+            "Lisa Su (Start: 2020-01-01T00:00:00Z)",
+            "M. Michele Burns (Start: 2003-11-01T00:00:00Z)",
+            "Kristina M. Johnson (Start: 2012-08-01T00:00:00Z)",
+            "Wesley Bush (Start: 2019-05-01T00:00:00Z)",
+            "Michael David Capellas (Start: 2006-01-01T00:00:00Z)"
+        ]
+    }
+]

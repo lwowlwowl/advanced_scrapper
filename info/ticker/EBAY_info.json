@@ -1,0 +1,48 @@
+[
+    {
+        "id_label": "eBay",
+        "ticker": "EBAY",
+        "country": [
+            "Switzerland",
+            "United States"
+        ],
+        "industry": [
+            "retail",
+            "e-commerce"
+        ],
+        "aliases": [
+            "eBay Inc. (San Jose, CA)",
+            "eBay Inc.",
+            "ebay"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "eBay Korea",
+            "Ebay (Ireland)",
+            "Qoo10.jp",
+            "StubHub",
+            "Marktplaats.nl",
+            "mobile.de orange",
+            "StumbleUpon (Start: 2007-05-01T00:00:00Z) (End: 2009-04-13T00:00:00Z)",
+            "PayPal (Start: 2002-10-01T00:00:00Z) (End: 2015-07-01T00:00:00Z)",
+            "Skype Technologies (Start: 2005-09-01T00:00:00Z) (End: 2009-11-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "PayPal (Start: 2002-10-01T00:00:00Z) (End: 2015-07-01T00:00:00Z)",
+            "Shopping.com",
+            "Epinions",
+            "Gumtree",
+            "half.com",
+            "Den Bl\u00e5 Avis"
+        ],
+        "ceos": [
+            "Meg Whitman (Start: 1998-01-01T00:00:00Z) (End: 2008-01-01T00:00:00Z)",
+            "Jamie Iannone (Start: 2020-04-27T00:00:00Z)",
+            "John Donahoe (Start: 2008-01-01T00:00:00Z) (End: 2015-01-01T00:00:00Z)",
+            "Devin Wenig (Start: 2015-07-01T00:00:00Z) (End: 2019-09-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

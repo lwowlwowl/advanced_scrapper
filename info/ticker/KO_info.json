@@ -1,0 +1,68 @@
+[
+    {
+        "id_label": "The Coca-Cola Company",
+        "ticker": "KO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "beverage industry",
+            "food industry",
+            "fast-moving consumer goods"
+        ],
+        "aliases": [
+            "Coca-Cola Company",
+            "Coca-Cola (NYSE: KO)",
+            "Coca Cola",
+            "Coca-Cola"
+        ],
+        "products": [
+            "alcoholic beverage",
+            "Coca-Cola",
+            "soft drink",
+            "Sprite",
+            "Diet Coke",
+            "non-alcoholic beverage",
+            "Fanta Orange"
+        ],
+        "subsidiaries": [
+            "Coca-Cola Bottlers Japan Holdings",
+            "Chi Limited",
+            "Fuze Beverage",
+            "Coca-Cola Europacific Partners",
+            "Coca-Cola Beverages Africa",
+            "Coca-Cola Norge AS",
+            "Coca-Cola \u0130\u00e7ecek",
+            "Coca-Cola Beverages Philippines",
+            "Coca-Cola Bottling Co. Consolidated",
+            "Coca-Cola Andina",
+            "Odwalla",
+            "Coca-Cola Amatil",
+            "Minute Maid",
+            "Coca-Cola HBC",
+            "Energy Brands",
+            "Costa Coffee",
+            "Equatorial Coca-Cola Bottling Company"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Muhtar Kent (Start: 2008-01-01T00:00:00Z) (End: 2018-01-01T00:00:00Z)",
+            "E. Neville Isdell (Start: 2004-01-01T00:00:00Z) (End: 2008-01-01T00:00:00Z)",
+            "James Quincey (Start: 2018-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Marc Bolland (Start: 2015-01-01T00:00:00Z)",
+            "Ana Bot\u00edn (Start: 2013-01-01T00:00:00Z)",
+            "Barry Diller (Start: 2002-01-01T00:00:00Z)",
+            "Alexis Herman (Start: 2007-01-01T00:00:00Z)",
+            "Herbert Allen, Jr. (Start: 1982-01-01T00:00:00Z)",
+            "Carolyn Everson (Start: 2022-01-01T00:00:00Z)",
+            "Helene D. Gayle (Start: 2013-01-01T00:00:00Z)",
+            "David Weinberg (Start: 2015-01-01T00:00:00Z)",
+            "Maria Elena Lagomasino (Start: 2008-01-01T00:00:00Z)",
+            "Chris Davis (Start: 2018-04-01T00:00:00Z)",
+            "James Quincey (Start: 2017-01-01T00:00:00Z)",
+            "Caroline Tsay (Start: 2018-04-01T00:00:00Z)"
+        ]
+    }
+]

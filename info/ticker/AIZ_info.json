@@ -1,0 +1,60 @@
+[
+    {
+        "id_label": "Air New Zealand",
+        "ticker": "AIZ",
+        "country": [
+            "New Zealand"
+        ],
+        "industry": [
+            "air transport"
+        ],
+        "aliases": [
+            "Air New Zealand Ltd",
+            "AIR NEW ZEALAND LIMITED",
+            "Air New Zealand Limited",
+            "AIZ",
+            "ANZ"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Ralph Norris (Start: 2002-02-18T00:00:00Z) (End: 2005-01-01T00:00:00Z)",
+            "Christopher Luxon (Start: 2012-12-01T00:00:00Z) (End: 2019-09-01T00:00:00Z)",
+            "Rob Fyfe (Start: 2005-01-01T00:00:00Z) (End: 2012-12-31T00:00:00Z)",
+            "Greg Foran (Start: 2020-02-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Assurant",
+        "ticker": "AIZ",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "insurance"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Air New Zealand Link",
+            "Mount Cook Airline",
+            "Eagle Airways",
+            "Air Nelson"
+        ],
+        "owned_entities": [
+            "Air Nelson",
+            "Eagle Airways",
+            "Mount Cook Airline"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Albemarle Corporation",
+        "ticker": "ALB",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "lithium"
+        ],
+        "subsidiaries": [
+            "Albemarle",
+            "Albemarle (Belgium)",
+            "Albemarle (Germany)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Kent Masters (Start: 2020-04-20T00:00:00Z)"
+        ],
+        "board_members": [
+            "Kent Masters (Start: 2015-01-12T00:00:00Z)",
+            "Glenda J. Minor (Start: 2019-07-23T00:00:00Z)",
+            "Ralf Cramer (Start: 2022-02-21T00:00:00Z)",
+            "M. Lauren Brlas (Start: 2017-06-23T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id_label": "Dollar General",
+        "ticker": "DG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "retail"
+        ],
+        "aliases": [
+            "Dollar General Store",
+            "Dollar General Corporation",
+            "DolGenCorp"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Vinci",
+        "ticker": "DG",
+        "country": [
+            "France"
+        ],
+        "industry": [
+            "activities of head offices",
+            "construction industry"
+        ],
+        "aliases": [
+            "VINCI Park",
+            "Vinci S.A.",
+            "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale d'Enterprises"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "EUROVIA Kamenolomy",
+            "Electric Components",
+            "Eurovia SK",
+            "Eurovia CZ",
+            "VINCI Construction UK",
+            "Dodin Campenon-Bernard",
+            "Viarom Construct",
+            "TIAB",
+            "warbud",
+            "Vinci construction terrassement",
+            "Vinci Immobilier",
+            "Soletanche Bachy",
+            "Sogea",
+            "Sicra",
+            "Sogea-Satom",
+            "Grands travaux de Marseille",
+            "Entrepose Group",
+            "Autoroutes du Sud de la France",
+            "Arcour",
+            "Bateg",
+            "Cofiroute",
+            "Eurovia",
+            "Cegelec",
+            "ANA \u2013 Aeroportos de Portugal",
+            "VINCI Highways",
+            "VINCI Construction CS",
+            "Vinci Construction International Network",
+            "Vinci \u00c9nergies"
+        ],
+        "owned_entities": [
+            "CFE",
+            "Lusoponte"
+        ],
+        "ceos": [
+            "Xavier Huillard (Start: 2010-01-01T00:00:00Z)",
+            "Yves de Silguy (Start: 2006-01-01T00:00:00Z) (End: 2010-01-01T00:00:00Z)",
+            "Jean-Marie Messier (Start: 1996-01-01T00:00:00Z) (End: 1997-01-01T00:00:00Z)",
+            "Antoine Zacharias (Start: 1997-01-01T00:00:00Z) (End: 2006-01-01T00:00:00Z)",
+            "Guy Dejouany (Start: 1990-01-01T00:00:00Z) (End: 1996-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Marie-Christine Lombard (Start: 2014-01-01T00:00:00Z)",
+            "Pascale Sourisse (Start: 2007-01-01T00:00:00Z)",
+            "Xavier Huillard (Start: 2006-01-01T00:00:00Z)",
+            "Yves de Silguy (Start: 2000-01-01T00:00:00Z)",
+            "Robert Castaigne (Start: 2007-01-01T00:00:00Z)",
+            "Jean-Pierre Lamoure (Start: 2008-01-01T00:00:00Z)"
+        ]
+    }
+]

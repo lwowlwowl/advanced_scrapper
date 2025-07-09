@@ -1,0 +1,36 @@
+[
+    {
+        "id_label": "The Cigna Group",
+        "ticker": "CI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "managed care"
+        ],
+        "aliases": [
+            "Cigna"
+        ],
+        "products": [
+            "health insurance"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Elder Granger (Start: 2018-01-01T00:00:00Z)",
+            "Donna Zarcone (Start: 2005-01-01T00:00:00Z)",
+            "George Kurian (Start: 2021-03-01T00:00:00Z)",
+            "Mark McClellan (Start: 2018-01-01T00:00:00Z)",
+            "Neesha Hathi (Start: 2021-09-01T00:00:00Z)",
+            "John Partridge (Start: 2009-01-26T00:00:00Z) (End: 2022-04-27T00:00:00Z)",
+            "Kimberly Ross (Start: 2020-06-01T00:00:00Z)",
+            "Ike Harris (Start: 2005-01-01T00:00:00Z)",
+            "Eric Wiseman (Start: 2007-04-01T00:00:00Z)",
+            "Eric J. Foss (Start: 2011-07-26T00:00:00Z)",
+            "Kathy Mazzarella (Start: 2018-01-01T00:00:00Z)",
+            "William J. DeLaney III (Start: 2018-01-01T00:00:00Z)",
+            "David Cordani (Start: 2009-10-01T00:00:00Z)"
+        ]
+    }
+]

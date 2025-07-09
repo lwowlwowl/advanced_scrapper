@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Charles Schwab Corporation",
+        "ticker": "SCHW",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "The Charles Schwab Corporation",
+            "Charles Schwab & Co., Inc.",
+            "Charles Schwab & Co.",
+            "Schwab",
+            "Charles Schwab"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "CyBerCorp"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

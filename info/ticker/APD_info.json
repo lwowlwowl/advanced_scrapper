@@ -1,0 +1,37 @@
+[
+    {
+        "id_label": "Air Products & Chemicals",
+        "ticker": "APD",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Air Products and Chemicals, Inc",
+            "Air Products"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Air Products"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Seifollah Ghasemi (Start: 2014-07-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Matthew H. Paull (Start: 2013-09-01T00:00:00Z)",
+            "Charles Cogut (Start: 2015-07-26T00:00:00Z)",
+            "Tonit M. Calaway (Start: 2022-03-01T00:00:00Z)",
+            "Wayne T. Smith (Start: 2021-08-01T00:00:00Z)",
+            "David Hing-Yuen Ho (Start: 2013-01-24T00:00:00Z)",
+            "Edward L. Monser (Start: 2013-09-01T00:00:00Z)",
+            "Seifollah Ghasemi (Start: 2014-07-01T00:00:00Z)",
+            "Jessica Trocchi Graziano (Start: 2023-12-01T00:00:00Z)",
+            "Lisa Davis (Start: 2020-03-04T00:00:00Z)"
+        ]
+    }
+]

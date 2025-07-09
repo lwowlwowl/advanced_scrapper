@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Dover Corporation",
+        "ticker": "DOV",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mechanical engineering"
+        ],
+        "aliases": [
+            "Dover Co."
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Dover (United Kingdom)",
+            "Dover (Canada)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "BorgWarner",
+        "ticker": "BWA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "automotive industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "powertrain"
+        ],
+        "subsidiaries": [
+            "BorgWarner (Sweden)",
+            "BorgWarner (Brazil)",
+            "BorgWarner (Germany)",
+            "Beru"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

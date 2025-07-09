@@ -1,0 +1,34 @@
+[
+    {
+        "id_label": "Cadence Design Systems",
+        "ticker": "CDNS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software industry"
+        ],
+        "aliases": [
+            "Cadence Design Systems, Inc.     (San Jose, CA)",
+            "Cadence Design Systems, Inc",
+            "c\u0101dence"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Cadence Design Systems (United Kingdom)",
+            "Cadence Design Systems (India)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Lip-Bu Tan",
+            "Jack Harding",
+            "Mike Fister",
+            "Joseph Costello",
+            "Ray Bingham",
+            "Anirudh Devgan (Start: 2021-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

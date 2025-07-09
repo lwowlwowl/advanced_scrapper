@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "Cognizant",
+        "ticker": "CTSH",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "IT service management",
+            "information technology consulting"
+        ],
+        "aliases": [
+            "Cognizant Technology Solutions Corporation",
+            "Cognizant Technology Solutions"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Cognizant (United Kingdom)",
+            "Cognizant (India)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Francisco D'Souza"
+        ],
+        "board_members": []
+    }
+]

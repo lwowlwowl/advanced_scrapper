@@ -1,0 +1,73 @@
+[
+    {
+        "id_label": "Hindustan Aeronautics Limited",
+        "ticker": "HAL",
+        "country": [
+            "India"
+        ],
+        "industry": [
+            "arms industry",
+            "aerospace industry"
+        ],
+        "aliases": [
+            "Hindustan Aeronautics",
+            "HAL"
+        ],
+        "products": [
+            "Dornier 228",
+            "Tejas",
+            "jet engine",
+            "helicopter",
+            "trainer",
+            "fighter",
+            "supersonic aircraft",
+            "rocket engine",
+            "attack helicopter",
+            "transport aircraft",
+            "light combat aircraft",
+            "Dhruv",
+            "aircraft maintenance",
+            "HF-24 Marut",
+            "airlifter",
+            "Su-30MKI",
+            "CE-20",
+            "HAL Rudra",
+            "HAL HTT-40"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Hindustan Aeronautics Limited S.C."
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Halliburton",
+        "ticker": "HAL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum"
+        ],
+        "aliases": [
+            "The Halliburton Oil Well Cementing Co.",
+            "Halliburton Energy Services, Inc. (Houston, TX)",
+            "Halliburton Company"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Halliburton (United Kingdom)"
+        ],
+        "owned_entities": [
+            "M. W. Kellogg Limited"
+        ],
+        "ceos": [
+            "Jeff Miller",
+            "David J. Lesar"
+        ],
+        "board_members": []
+    }
+]

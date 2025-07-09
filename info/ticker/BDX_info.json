@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Becton Dickinson",
+        "ticker": "BDX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "biotechnology"
+        ],
+        "aliases": [
+            "Becton, Dickinson and Company",
+            "BD Biosciences (United States)",
+            "BD"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Becton Dickinson (Netherlands)",
+            "Becton Dickinson (France)",
+            "Becton Dickinson (Germany)",
+            "Becton Dickinson (United Kingdom)",
+            "Becton Dickinson (Ireland)",
+            "FlowJo LLC"
+        ],
+        "owned_entities": [
+            "Becton, Dickinson and Company headquarters"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

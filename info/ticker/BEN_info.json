@@ -1,0 +1,51 @@
+[
+    {
+        "id_label": "Franklin Templeton Investments",
+        "ticker": "BEN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Franklin Resources Inc"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Stock Spirits Group",
+            "Fortuna Entertainment Group",
+            "Ceconomy"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Bendigo Bank",
+        "ticker": "BEN",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            "financial sector",
+            "economics of banking",
+            "financial services"
+        ],
+        "aliases": [
+            "BENDIGO AND ADELAIDE BANK LIMITED",
+            "Bendigo and Adelaide Bank"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Cassa Commerciale Australia"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "id_label": "General Dynamics",
+        "ticker": "GD",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mechanical engineering",
+            "defense industry",
+            "shipbuilding",
+            "aerospace industry"
+        ],
+        "aliases": [
+            "General Dynamics Corporation",
+            "GD"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Tadpole Computer",
+            "National Steel and Shipbuilding Company",
+            "General Dynamics Land Systems",
+            "General Dynamics Mission Systems",
+            "Electric Launch Company",
+            "Gulfstream Aerospace",
+            "General Dynamics Electric Boat",
+            "Jet Aviation",
+            "Convair",
+            "Bath Iron Works",
+            "Creative Technology",
+            "General Dynamics European Land Systems",
+            "General Atomics (Start: 1955-07-18T00:00:00Z) (End: 1967-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Mowag",
+            "General Dynamics Electric Boat",
+            "Gulfstream Aerospace"
+        ],
+        "ceos": [
+            "Phebe Novakovic"
+        ],
+        "board_members": [
+            "Jim Mattis (Start: 2019-01-01T00:00:00Z)",
+            "Peter Wall (Start: 2016-01-01T00:00:00Z)",
+            "Cecil D. Haney (Start: 2019-01-01T00:00:00Z)",
+            "Phebe Novakovic (Start: 2012-01-01T00:00:00Z)",
+            "Catherine Reynolds (Start: 2017-01-01T00:00:00Z)",
+            "Laura Schumacher (Start: 2014-01-01T00:00:00Z)",
+            "Ward Nye (Start: 2018-01-01T00:00:00Z)",
+            "Rudy de Leon (Start: 2014-01-01T00:00:00Z)",
+            "Mark Malcolm (Start: 2015-01-01T00:00:00Z)",
+            "John Stratton (Start: 2020-01-01T00:00:00Z)",
+            "James Crown (Start: 1987-01-01T00:00:00Z)",
+            "Robert K. Steel (Start: 2021-01-01T00:00:00Z)"
+        ]
+    }
+]

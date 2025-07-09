@@ -1,0 +1,52 @@
+[
+    {
+        "id_label": "American Express",
+        "ticker": "AXP",
+        "country": [
+            "United Kingdom",
+            "United States"
+        ],
+        "industry": [
+            "financial services",
+            "payment card industry",
+            "financial service activities, except insurance and pension funding"
+        ],
+        "aliases": [
+            "AmEx",
+            "americanexpress.com",
+            "American Express Company",
+            "American Express Co",
+            "American Express Bank",
+            "AEXP"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "200 Vesey Street",
+            "Amex House"
+        ],
+        "ceos": [
+            "Harvey Golub (Start: 1993-01-01T00:00:00Z) (End: 2001-01-01T00:00:00Z)",
+            "Stephen Squeri (Start: 2018-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Lisa Wardell (Start: 2021-03-08T00:00:00Z)",
+            "Lynn Pike (Start: 2020-01-01T00:00:00Z)",
+            "Christopher Young (Start: 2018-03-01T00:00:00Z)",
+            "Stephen Squeri (Start: 2018-02-01T00:00:00Z)",
+            "Jay Clayton (Start: 2022-10-05T00:00:00Z)",
+            "Thomas Baltimore (Start: 2021-01-27T00:00:00Z)",
+            "Karen Parkhill (Start: 2020-01-29T00:00:00Z)",
+            "Dan Vasella (Start: 2012-01-01T00:00:00Z)",
+            "Charlene Barshefsky (Start: 2001-01-01T00:00:00Z)",
+            "Mike Leavitt (Start: 2015-01-01T00:00:00Z)",
+            "Charles Phillips (Start: 2020-12-01T00:00:00Z)",
+            "John Brennan (Start: 2017-01-01T00:00:00Z)",
+            "Peter Chernin (Start: 2006-01-01T00:00:00Z)",
+            "Ted Leonsis (Start: 2010-01-01T00:00:00Z)",
+            "Ralph de la Vega (Start: 2016-01-01T00:00:00Z)"
+        ]
+    }
+]

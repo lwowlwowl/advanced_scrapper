@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Comerica",
+        "ticker": "CMA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "economics of banking",
+            "financial services",
+            "financial sector"
+        ],
+        "aliases": [
+            "Comerica, Inc.",
+            "Comerica Incorporated"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

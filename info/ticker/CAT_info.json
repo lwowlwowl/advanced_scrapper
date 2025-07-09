@@ -1,0 +1,69 @@
+[
+    {
+        "id_label": "Caterpillar Inc.",
+        "ticker": "CAT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mechanical engineering"
+        ],
+        "aliases": [
+            "Caterpillar Tractor Company",
+            "Caterpillar Inc. (Peoria, IL)",
+            "CAT",
+            "Caterpillar"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "CATAPULT GROUP INTERNATIONAL LTD",
+        "ticker": "CAT",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Solar Turbines EAME",
+            "Caterpillar (Switzerland)",
+            "Caterpillar Germany",
+            "Caterpillar (United Kingdom)",
+            "Solar Turbines",
+            "Progress Rail Services",
+            "Perkins Engines"
+        ],
+        "owned_entities": [
+            "Electro-Motive Diesel",
+            "Perkins Engines"
+        ],
+        "ceos": [
+            "Jim Umpleby (Start: 2017-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Debra Reed (Start: 2015-01-01T00:00:00Z)",
+            "Gerald Johnson (Start: 2021-01-01T00:00:00Z)",
+            "Jim Umpleby (Start: 2017-01-01T00:00:00Z)",
+            "Dave Calhoun (Start: 2011-01-01T00:00:00Z)",
+            "Dan Dickinson (Start: 2006-01-01T00:00:00Z)",
+            "Ray Wilkins (Start: 2017-01-01T00:00:00Z)",
+            "David MacLennan (Start: 2021-01-01T00:00:00Z)",
+            "Susan Schwab (Start: 2009-01-01T00:00:00Z)",
+            "Edward B. Rust, Jr. (Start: 2003-01-01T00:00:00Z)",
+            "Kelly Ayotte (Start: 2017-01-01T00:00:00Z)"
+        ]
+    }
+]

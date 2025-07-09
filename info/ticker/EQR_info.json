@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Equity Residential",
+        "ticker": "EQR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate economics"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

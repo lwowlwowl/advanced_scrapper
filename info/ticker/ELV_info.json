@@ -1,0 +1,47 @@
+[
+    {
+        "id_label": "Elevance Health, Inc.",
+        "ticker": "ELV",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "health insurance"
+        ],
+        "aliases": [
+            "WellPoint, Inc",
+            "Anthem, Inc.",
+            "Anthem Insurance Companies",
+            "Anthem Blue Cross and Blue Shield",
+            "Anthem"
+        ],
+        "products": [
+            "health insurance"
+        ],
+        "subsidiaries": [
+            "Carelon"
+        ],
+        "owned_entities": [
+            "Carelon",
+            "Wellpoint, Inc.",
+            "Amerigroup",
+            "UniCare"
+        ],
+        "ceos": [
+            "Joe Swedish (Start: 2013-01-01T00:00:00Z) (End: 2017-01-01T00:00:00Z)",
+            "Gail Boudreaux (Start: 2017-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Gail Boudreaux (Start: 2017-01-01T00:00:00Z)",
+            "Susan DeVore (Start: 2021-08-04T00:00:00Z)",
+            "Robert Dixon (Start: 2011-07-01T00:00:00Z)",
+            "Ramiro Peru (Start: 2004-01-01T00:00:00Z)",
+            "Lew Hay (Start: 2013-01-01T00:00:00Z)",
+            "Bahija Jallal (Start: 2018-02-01T00:00:00Z)",
+            "Antonio Neri (Start: 2017-01-01T00:00:00Z)",
+            "Liz Tallett (Start: 2013-01-01T00:00:00Z)",
+            "Kerry Clark (Start: 2014-01-01T00:00:00Z)",
+            "Ryan Schneider (Start: 2019-01-01T00:00:00Z)"
+        ]
+    }
+]

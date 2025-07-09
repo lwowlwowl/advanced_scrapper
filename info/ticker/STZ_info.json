@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "Constellation Brands",
+        "ticker": "STZ",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "alcohol industry"
+        ],
+        "aliases": [
+            "STZ",
+            "Constellation Wines",
+            "Constellation Brands Inc.",
+            "Constellation Beers & Spirits",
+            "Constellation"
+        ],
+        "products": [
+            "wine"
+        ],
+        "subsidiaries": [
+            "Matthew Clark",
+            "Opus One Winery"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

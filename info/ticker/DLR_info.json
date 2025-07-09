@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Digital Realty Trust",
+        "ticker": "DLR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate investment trust"
+        ],
+        "aliases": [
+            "Digital Realty"
+        ],
+        "products": [
+            "data center"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "id_label": "Anglo American plc",
+        "ticker": "AAL",
+        "country": [
+            "Union of South Africa",
+            "United Kingdom"
+        ],
+        "industry": [
+            "Mining of other non-ferrous metal ores",
+            "mining"
+        ],
+        "aliases": [
+            "Anglo American"
+        ],
+        "products": [
+            "gold"
+        ],
+        "subsidiaries": [
+            "US Airways",
+            "American Airlines",
+            "American Eagle",
+            "US Airways Shuttle",
+            "PSA Airlines",
+            "US Airways Express",
+            "Envoy Air"
+        ],
+        "owned_entities": [
+            "PSA Airlines",
+            "US Airways Shuttle",
+            "Piedmont Airlines",
+            "American Airlines",
+            "US Airways",
+            "Envoy Air",
+            "US Airways Express"
+        ],
+        "ceos": [
+            "Mark Cutifani (Start: 2013-04-03T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "American Airlines Group",
+        "ticker": "AAL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "aviation",
+            "air transport"
+        ],
+        "aliases": [
+            "American Airlines Group, Inc.",
+            "American Airlines Group Inc.",
+            "American Airlines Group Inc"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "AviaAM B04"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Doug Parker (Start: 2013-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "AviaAM Leasing Service Centre, AB",
+        "ticker": "AAL",
+        "country": [
+            "Lithuania"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "AviaAM"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Anglo American (South Africa)",
+            "Anglo American (Canada)",
+            "Western Reefs Exploration and Development Co.",
+            "West Springs, Limited.",
+            "Consolidated Diamond Mines of South-West Africa",
+            "Cape Coast Exploration"
+        ],
+        "owned_entities": [
+            "De Beers"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

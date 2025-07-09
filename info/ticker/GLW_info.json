@@ -1,0 +1,32 @@
+[
+    {
+        "id_label": "Corning Inc.",
+        "ticker": "GLW",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "biotechnology",
+            "manufacturing"
+        ],
+        "aliases": [
+            "Corning Incorporated",
+            "Corning Glass Works"
+        ],
+        "products": [
+            "multi-well plate",
+            "networking hardware",
+            "glass"
+        ],
+        "subsidiaries": [
+            "Corning",
+            "Corning (South Korea)",
+            "Corning (Israel)",
+            "Alliance Fiber Optic Products",
+            "Ibwave solutions"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

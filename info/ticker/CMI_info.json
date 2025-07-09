@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Cummins",
+        "ticker": "CMI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "manufacture of machinery and equipment"
+        ],
+        "aliases": [
+            "Cummins, Inc.",
+            "Cummins Inc."
+        ],
+        "products": [
+            "engine"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Cummins Corporate Office Building"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

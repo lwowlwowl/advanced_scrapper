@@ -1,0 +1,40 @@
+[
+    {
+        "id_label": "BlackRock",
+        "ticker": "BLK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "asset management"
+        ],
+        "aliases": [
+            "BlackRock, Inc.",
+            "BLK"
+        ],
+        "products": [
+            "Exchange-Traded Funds (ETFs): Issues for Congress",
+            "asset management",
+            "index fund",
+            "risk management",
+            "mutual fund"
+        ],
+        "subsidiaries": [
+            "iShares"
+        ],
+        "owned_entities": [
+            "Carlsberg Group",
+            "Glencore",
+            "Royal Unibrew",
+            "Wabtec",
+            "Rio Tinto Group",
+            "Vivendi",
+            "CT Corpora",
+            "Ruangguru"
+        ],
+        "ceos": [
+            "Larry Fink (Start: 1988-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

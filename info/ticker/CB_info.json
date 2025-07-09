@@ -1,0 +1,30 @@
+[
+    {
+        "id_label": "Chubb Corp.",
+        "ticker": "CB",
+        "country": [
+            "Switzerland"
+        ],
+        "industry": [
+            "insurance"
+        ],
+        "aliases": [
+            "Chub Ltd",
+            "Chub Limited"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Chubb Insurance Japan"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Evan G. Greenberg",
+            "Olivier Steimer",
+            "Frances Townsend",
+            "Luis T\u00e9llez"
+        ]
+    }
+]

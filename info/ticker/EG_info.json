@@ -1,0 +1,23 @@
+[
+    {
+        "id_label": "Everest Re",
+        "ticker": "EG",
+        "country": [
+            ""
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Prudential Reinsurance",
+            "Everest Re Group"
+        ],
+        "products": [
+            "reinsurance"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

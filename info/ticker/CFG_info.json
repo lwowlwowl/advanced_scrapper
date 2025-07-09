@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Citizens Financial Group",
+        "ticker": "CFG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial sector",
+            "economics of banking",
+            "financial services"
+        ],
+        "aliases": [
+            "Citizens Financial Group, Inc. (Providence, RI)",
+            "Citizens Bank"
+        ],
+        "products": [
+            "financial services"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

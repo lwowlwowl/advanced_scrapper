@@ -1,0 +1,32 @@
+[
+    {
+        "id_label": "The Bank of New York Mellon",
+        "ticker": "BK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "economics of banking"
+        ],
+        "aliases": [
+            "The Bank of New York Mellon Corporation",
+            "BNY Mellon",
+            "BNY"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Pershing LLC",
+            "Dreyfus Corporation"
+        ],
+        "owned_entities": [
+            "BNY Mellon Center",
+            "525 William Penn Place"
+        ],
+        "ceos": [
+            "Charlie Scharf"
+        ],
+        "board_members": []
+    }
+]

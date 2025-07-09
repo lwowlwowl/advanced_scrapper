@@ -1,0 +1,38 @@
+[
+    {
+        "id_label": "A. O. Smith",
+        "ticker": "AOS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "water collection, treatment and supply"
+        ],
+        "aliases": [
+            "A.O. Smith Corporation",
+            "A.O. Smith",
+            "A. O. Smith Corporation"
+        ],
+        "products": [
+            "hot water dispenser"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Ajita G. Rajendra (Start: 2013-01-01T00:00:00Z) (End: 2018-09-01T00:00:00Z)",
+            "Kevin J. Wheeler (Start: 2018-09-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Kevin J. Wheeler (Start: 2017-07-11T00:00:00Z)",
+            "Victoria M. Holt (Start: 2021-04-13T00:00:00Z)",
+            "Lois Martin (Start: 2024-04-09T00:00:00Z)",
+            "Ilham Kadri (Start: 2016-12-12T00:00:00Z)",
+            "Ronald D. Brown (Start: 2001-01-01T00:00:00Z)",
+            "Michael M. Larsen (Start: 2021-04-13T00:00:00Z)",
+            "Mark D. Smith (Start: 2001-04-04T00:00:00Z)",
+            "Ajita G. Rajendra (Start: 2011-12-12T00:00:00Z)",
+            "Christopher L. Mapes (Start: 2023-04-11T00:00:00Z)",
+            "Todd W. Fister (Start: 2024-04-09T00:00:00Z)"
+        ]
+    }
+]

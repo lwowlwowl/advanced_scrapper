@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Clorox",
+        "ticker": "CLX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "food industry"
+        ],
+        "aliases": [
+            "Clorox Company",
+            "The Clorox Company"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Burt's Bees"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Linda J. Rendle (Start: 2020-09-14T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

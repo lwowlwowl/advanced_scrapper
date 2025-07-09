@@ -1,0 +1,127 @@
+[
+    {
+        "id_label": "Fox Entertainment Group",
+        "ticker": "FOX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "film industry"
+        ],
+        "aliases": [
+            "Fox Entertainment Group, Inc.",
+            "Fox Entertainment",
+            "Fox Ent",
+            "FEG"
+        ],
+        "products": [
+            "film"
+        ],
+        "subsidiaries": [
+            "National Geographic Partners",
+            "Endemol Shine Group",
+            "Fox Television Stations",
+            "Tata Play",
+            "Searchlight Pictures",
+            "Fox Entertainment Group",
+            "Blue Sky Studios",
+            "FX",
+            "20th Century Studios",
+            "Fox Broadcasting Company"
+        ],
+        "owned_entities": [
+            "Searchlight Pictures"
+        ],
+        "ceos": [
+            "James Murdoch (End: 2019-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Fox-Wizel Ltd.",
+        "ticker": "FOX",
+        "country": [
+            "Israel"
+        ],
+        "industry": [
+            "fashion"
+        ],
+        "aliases": [
+            "\u05e0\u05e1"
+        ],
+        "products": [
+            "clothing"
+        ],
+        "subsidiaries": [
+            "Credible",
+            "Tubi",
+            "MyNetworkTV",
+            "Fox Broadcasting Company",
+            "Fox Sports"
+        ],
+        "owned_entities": [
+            "Fox Business"
+        ],
+        "ceos": [
+            "Jim Gianopulos"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "21st Century Fox",
+        "ticker": "FOX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "journalism",
+            "media industry",
+            "news media"
+        ],
+        "aliases": [
+            "Twenty-First Century Fox, Inc.",
+            "21CF"
+        ],
+        "products": [
+            "broadcasting"
+        ],
+        "subsidiaries": [
+            "Fox 2000 Pictures",
+            "Star Studios",
+            "Fox Music",
+            "Fox Next",
+            "Hulu",
+            "Searchlight Pictures",
+            "Disney Studios Australia",
+            "Blue Sky Studios",
+            "Regency Enterprises",
+            "Fox News"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Fox Corporation",
+        "ticker": "FOX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "media industry"
+        ],
+        "aliases": [
+            "FOX",
+            "Fox"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Lachlan Murdoch (Start: 2019-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

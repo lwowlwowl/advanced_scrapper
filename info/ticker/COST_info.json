@@ -1,0 +1,62 @@
+[
+    {
+        "id_label": "Costco",
+        "ticker": "COST",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "retail"
+        ],
+        "aliases": [
+            "Costco Wholesale Corporation",
+            "Costco Wholesale"
+        ],
+        "products": [
+            "cash and carry"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Costco Chubu Airport"
+        ],
+        "ceos": [
+            "W. Craig Jelinek (Start: 2012-01-01T00:00:00Z) (End: 2024-01-01T00:00:00Z)",
+            "Ron Vachris (Start: 2024-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Richard Libenson (Start: 1993-10-01T00:00:00Z) (End: 2017-01-26T00:00:00Z)",
+            "Ron Vachris (Start: 2022-02-01T00:00:00Z)",
+            "Richard Galanti (Start: 1995-01-01T00:00:00Z)",
+            "Charlie Munger (Start: 1997-01-01T00:00:00Z) (End: 2023-11-28T00:00:00Z)",
+            "W. Craig Jelinek (Start: 2010-02-01T00:00:00Z)",
+            "Sally Jewell (Start: 2020-01-22T00:00:00Z)",
+            "Hamilton E. James (Start: 1988-08-01T00:00:00Z)",
+            "Helena Foulkes (Start: 2023-08-16T00:00:00Z)",
+            "Susan Decker (Start: 2004-10-01T00:00:00Z)",
+            "John W. Stanton (Start: 2015-10-01T00:00:00Z)",
+            "Maggie Wilderotter (Start: 2015-10-01T00:00:00Z)",
+            "Jeff Raikes (Start: 2008-12-01T00:00:00Z)",
+            "Ken Denman (Start: 2017-03-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "Costain Group",
+        "ticker": "COST",
+        "country": [
+            "United Kingdom"
+        ],
+        "industry": [
+            "civil engineering"
+        ],
+        "aliases": [
+            "Costain Group plc"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

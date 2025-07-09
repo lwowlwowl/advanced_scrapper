@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "F5, Inc.",
+        "ticker": "FFIV",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "technology"
+        ],
+        "aliases": [
+            "F5, Inc.",
+            "F5 Networks, Inc.",
+            "F5 Networks",
+            "F5 Labs",
+            "F5"
+        ],
+        "products": [
+            "computer network"
+        ],
+        "subsidiaries": [
+            "NGINX, Inc.",
+            "Volterra"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

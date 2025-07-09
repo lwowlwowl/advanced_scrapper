@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Bunge Limited",
+        "ticker": "BG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "food industry"
+        ],
+        "aliases": [
+            "Bunge International"
+        ],
+        "products": [
+            "soybean",
+            "canola"
+        ],
+        "subsidiaries": [
+            "Bunge (Canada)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "id_label": "Bio-Techne",
+        "ticker": "TECH",
+        "country": [
+            ""
+        ],
+        "industry": [
+            "biotechnology"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "protein"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Indosterling Technomedia",
+        "ticker": "TECH",
+        "country": [
+            "Indonesia"
+        ],
+        "industry": [
+            "computer industry"
+        ],
+        "aliases": [
+            "PT Indosterling Technomedia Tbk",
+            "TECH"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "",
+        "ticker": "TECH",
+        "country": [
+            "Norway"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

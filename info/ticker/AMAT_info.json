@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Applied Materials",
+        "ticker": "AMAT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "APPLIED MATERIALS, INC. (Santa Clara, CA)",
+            "Applied Materials, Inc.",
+            "AMAT"
+        ],
+        "products": [
+            "computer hardware"
+        ],
+        "subsidiaries": [
+            "Applied Materials (Singapore)",
+            "Applied Materials (Israel)",
+            "Applied Materials India"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

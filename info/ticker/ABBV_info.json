@@ -1,0 +1,50 @@
+[
+    {
+        "id_label": "AbbVie",
+        "ticker": "ABBV",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "biotechnology",
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "AbbVie Inc.",
+            "ABBV"
+        ],
+        "products": [
+            "medication",
+            "medical treatment"
+        ],
+        "subsidiaries": [
+            "AbbVie s.r.o.",
+            "AbbVie GK",
+            "AbbVie (Bahamas)",
+            "AbbVie (Bermuda)",
+            "AbbVie Deutschland GmbH & Co. KG",
+            "AbbVie (Australia)"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Richard A. Gonzalez (Start: 2013-01-01T00:00:00Z) (End: 2024-07-01T00:00:00Z)",
+            "Robert A. Michael (Start: 2024-07-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Robert A. Michael (Start: 2024-07-01T00:00:00Z)",
+            "Becky Roberts (Start: 2018-05-04T00:00:00Z)",
+            "Brett Hart (Start: 2016-05-06T00:00:00Z)",
+            "Richard A. Gonzalez (Start: 2013-01-01T00:00:00Z)",
+            "Robert Alpern (Start: 2013-01-01T00:00:00Z)",
+            "Susan Quaggin (Start: 2023-10-11T00:00:00Z)",
+            "Roxanne Austin (Start: 2013-01-01T00:00:00Z)",
+            "Glenn Tilton (Start: 2013-01-01T00:00:00Z)",
+            "Melody Meyer (Start: 2017-05-05T00:00:00Z)",
+            "Rick Waddell (Start: 2012-11-29T00:00:00Z)",
+            "Edward J. Rapp (Start: 2013-01-01T00:00:00Z)",
+            "Willie Burnside (Start: 2013-01-01T00:00:00Z)",
+            "Tom Freyman (Start: 2020-05-08T00:00:00Z)",
+            "Jennifer L. Davis (Start: 2023-10-11T00:00:00Z)"
+        ]
+    }
+]

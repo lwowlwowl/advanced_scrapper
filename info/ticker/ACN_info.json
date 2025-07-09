@@ -1,0 +1,58 @@
+[
+    {
+        "id_label": "Accenture",
+        "ticker": "ACN",
+        "country": [
+            "Ireland"
+        ],
+        "industry": [
+            "management consulting industry",
+            "professional services industry",
+            "information technology"
+        ],
+        "aliases": [
+            "Accenture (Dublin)",
+            "Accenture PLC",
+            "Accenture Global Solutions Limited (Dublin)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Accenture (France)",
+            "Accenture Central Europe B.V., organiza\u010dn\u00ed slo\u017eka",
+            "Accenture Services, s.r.o.",
+            "Accenture (Sweden)",
+            "Accenture (Norway)",
+            "Accenture (Switzerland)",
+            "Accenture (United Kingdom)",
+            "Accenture (Italy)",
+            "Accenture (United States)",
+            "Accenture (Spain)",
+            "Accenture Technology Solutions Japan",
+            "Avanade",
+            "Accenture Bangladesh Limited",
+            "Accenture Technology Labs",
+            "Accenture (Germany)"
+        ],
+        "owned_entities": [
+            "Acquity Group"
+        ],
+        "ceos": [
+            "Julie Sweet (Start: 2019-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Venkata Renduchintala (Start: 2018-04-12T00:00:00Z)",
+            "Jaime Ardila (Start: 2013-08-20T00:00:00Z)",
+            "Beth E. Mooney (Start: 2021-02-02T00:00:00Z)",
+            "Alan Jope (Start: 2023-04-14T00:00:00Z)",
+            "Paula Price (Start: 2014-05-09T00:00:00Z)",
+            "Martin Bruderm\u00fcller (Start: 2024-01-31T00:00:00Z)",
+            "Julie Sweet (Start: 2019-09-01T00:00:00Z)",
+            "Tracey Travis (Start: 2017-07-20T00:00:00Z)",
+            "Arun Sarin (Start: 2015-10-30T00:00:00Z)",
+            "Gilles P\u00e9lisson (Start: 2012-04-27T00:00:00Z)",
+            "Nancy McKinstry (Start: 2016-07-13T00:00:00Z)"
+        ]
+    }
+]

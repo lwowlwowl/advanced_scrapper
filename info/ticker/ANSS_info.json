@@ -1,0 +1,35 @@
+[
+    {
+        "id_label": "",
+        "ticker": "ANSS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software publishing"
+        ],
+        "aliases": [
+            "Swanson Analysis Systems, Inc.",
+            "Fluent, Inc.",
+            "ANSYS, Inc.",
+            "ANSYS, Inc",
+            "ANSYS Inc.",
+            "Ansoft Corporation",
+            "Ansoft",
+            "ANSYS"
+        ],
+        "products": [
+            "software"
+        ],
+        "subsidiaries": [
+            "ANSYS Software Pvt. Ltd.",
+            "Ansys (Canada)",
+            "Ansys (United Kingdom)"
+        ],
+        "owned_entities": [
+            "Esterel Technologies"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

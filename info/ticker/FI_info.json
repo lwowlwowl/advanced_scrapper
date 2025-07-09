@@ -1,0 +1,26 @@
+[
+    {
+        "id_label": "Fiserv",
+        "ticker": "FI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Fiserv, Inc.",
+            "First service",
+            "First Data Processing"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "First Data"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

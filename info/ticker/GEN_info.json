@@ -1,0 +1,76 @@
+[
+    {
+        "id_label": "Gen Digital",
+        "ticker": "GEN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software industry"
+        ],
+        "aliases": [
+            "Symantec",
+            "NortonLifeLock"
+        ],
+        "products": [
+            "Norton"
+        ],
+        "subsidiaries": [
+            "Avast Software",
+            "Avira"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Vincent Pilette"
+        ],
+        "board_members": [
+            "Pavel Baudi\u0161 (Start: 2022-01-01T00:00:00Z)",
+            "Vincent Pilette (Start: 2019-01-01T00:00:00Z)",
+            "Ond\u0159ej Vl\u010dek (Start: 2022-01-01T00:00:00Z)",
+            "Frank E. Dangeard (Start: 2007-01-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "Genmab",
+        "ticker": "GEN",
+        "country": [
+            "Denmark"
+        ],
+        "industry": [
+            "biotechnology"
+        ],
+        "aliases": [
+            "Genmab, Inc"
+        ],
+        "products": [
+            "ofatumumab"
+        ],
+        "subsidiaries": [
+            "Genmab (United States)",
+            "Genmab (Netherlands)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "GenOn Energy",
+        "ticker": "GEN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electric utility"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

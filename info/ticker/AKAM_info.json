@@ -1,0 +1,41 @@
+[
+    {
+        "id_label": "Akamai Technologies",
+        "ticker": "AKAM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "web hosting service",
+            "Internet industry"
+        ],
+        "aliases": [
+            "Akamai Technologies, Inc.",
+            "Akamai"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Prolexic Technologies"
+        ],
+        "owned_entities": [
+            "RedSwoosh"
+        ],
+        "ceos": [
+            "F. Thomson Leighton (Start: 2013-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "F. Thomson Leighton (Start: 1998-01-01T00:00:00Z)",
+            "Monte E. Ford (Start: 2013-06-20T00:00:00Z)",
+            "William R. Wagner (Start: 2018-04-03T00:00:00Z)",
+            "Sharon Y. Bowen (Start: 2021-04-02T00:00:00Z)",
+            "Marianne C. Brown (Start: 2020-03-13T00:00:00Z)",
+            "Ben Verwaayen (Start: 2013-11-08T00:00:00Z)",
+            "Daniel Hesse (Start: 2016-08-10T00:00:00Z)",
+            "Madhu Ranganathan (Start: 2019-06-07T00:00:00Z)",
+            "Peter Thomas Killalea (Start: 2018-03-06T00:00:00Z)",
+            "Jonathan Miller (Start: 2015-07-21T00:00:00Z)"
+        ]
+    }
+]

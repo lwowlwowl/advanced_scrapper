@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "AvalonBay",
+        "ticker": "AVB",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate investment trust"
+        ],
+        "aliases": [
+            "Avalon Communitites",
+            "AvalonBay Communities, Inc.",
+            "AvalonBay Communities"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Archstone",
+            "Avalon"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

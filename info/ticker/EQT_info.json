@@ -1,0 +1,44 @@
+[
+    {
+        "id_label": "EQT",
+        "ticker": "EQT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "petroleum"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Murry S. Gerber (Start: 1998-01-01T00:00:00Z) (End: 2007-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "EQT HOLDINGS LIMITED",
+        "ticker": "EQT",
+        "country": [
+            "Gibraltar"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

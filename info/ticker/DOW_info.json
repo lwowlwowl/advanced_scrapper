@@ -1,0 +1,93 @@
+[
+    {
+        "id_label": "Dow Chemical Company",
+        "ticker": "DOW",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            "Dow Chemical",
+            "Dow"
+        ],
+        "products": [
+            "plastic",
+            "calcium chloride",
+            "ethylene oxide"
+        ],
+        "subsidiaries": [
+            "Dow Chemical Company (South Korea)",
+            "Dow (Brasil)",
+            "Dow Chemical (India)"
+        ],
+        "owned_entities": [
+            "Dow AgroSciences"
+        ],
+        "ceos": [
+            "Jim Fitterling (Start: 2016-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Gaurdie Banister (Start: 2020-08-01T00:00:00Z)",
+            "Jill Wyant (Start: 2020-04-09T00:00:00Z)",
+            "Richard K. Davis (Start: 2018-07-01T00:00:00Z)",
+            "Jim Fitterling (Start: 2020-04-01T00:00:00Z)",
+            "Jeff M. Fettig (Start: 2003-01-01T00:00:00Z)",
+            "Mark Loughridge (End: 2017-01-01T00:00:00Z)",
+            "Jerri DeVard (Start: 2022-04-14T00:00:00Z)",
+            "Samuel R. Allen (Start: 2019-08-01T00:00:00Z)",
+            "Jacqueline Hinman (Start: 2018-07-01T00:00:00Z)",
+            "Debbie Dial (Start: 2021-04-01T00:00:00Z)",
+            "Jacqueline Barton (End: 2017-01-01T00:00:00Z)",
+            "Luis Alberto Moreno (Start: 2021-04-15T00:00:00Z)",
+            "Wesley Bush (Start: 2018-07-26T00:00:00Z)",
+            "Daniel Yohannes (Start: 2018-07-01T00:00:00Z)",
+            "James A. Bell (End: 2021-01-01T00:00:00Z)",
+            "Ajaypal Singh Banga (End: 2017-01-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "Downer Group",
+        "ticker": "DOW",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "DOWNER EDI LIMITED",
+            "Downer EDi",
+            "Downer"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Dow Inc.",
+        "ticker": "DOW",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            "Dow, Inc.",
+            "Dow"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

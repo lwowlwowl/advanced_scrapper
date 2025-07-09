@@ -1,0 +1,61 @@
+[
+    {
+        "id_label": "Allstate",
+        "ticker": "ALL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "insurance"
+        ],
+        "aliases": [
+            "The Allstate Corporation",
+            "Allstate Insurance"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Tom Wilson (Start: 2007-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Monica Turner (Start: 2023-02-01T00:00:00Z)",
+            "Andrea Redmond (Start: 2010-01-01T00:00:00Z)",
+            "Jacques Perold (Start: 2015-12-01T00:00:00Z)",
+            "Tom Wilson (Start: 2006-01-01T00:00:00Z)",
+            "Bobby Mehta (Start: 2014-02-19T00:00:00Z)",
+            "Margaret M. Keane (Start: 2018-01-01T00:00:00Z)",
+            "Maria Morris (Start: 2024-01-02T00:00:00Z)",
+            "Gregg Sherrill (Start: 2017-10-01T00:00:00Z)",
+            "Rich Hume (Start: 2020-06-12T00:00:00Z)",
+            "Kermit Crawford (Start: 2013-01-30T00:00:00Z)",
+            "Judith Sprieser (Start: 1999-01-01T00:00:00Z)",
+            "Perry M. Traquina (Start: 2016-01-01T00:00:00Z)",
+            "Donald Brown (Start: 2020-11-01T00:00:00Z)"
+        ]
+    },
+    {
+        "id_label": "Aristocrat Leisure",
+        "ticker": "ALL",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            "gambling"
+        ],
+        "aliases": [
+            "Aristocrat Technologies Australia Pty Ltd",
+            "ARISTOCRAT LEISURE LIMITED",
+            "Aristocrat"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

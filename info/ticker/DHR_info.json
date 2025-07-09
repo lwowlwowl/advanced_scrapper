@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Danaher Corporation",
+        "ticker": "DHR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "conglomerate"
+        ],
+        "aliases": [
+            "Danaher"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Danaher (Switzerland)",
+            "Danaher (Singapore)",
+            "Danaher (Sweden)",
+            "Danaher (Germany)",
+            "Danaher (United Kingdom)",
+            "Danaher (Australia)",
+            "Danaher (China)",
+            "Integrated DNA Technologies",
+            "Nobel Biocare",
+            "Beckman Coulter"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

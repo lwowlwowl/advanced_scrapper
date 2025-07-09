@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "CME Group",
+        "ticker": "CME",
+        "country": [
+            "United Kingdom",
+            "United States"
+        ],
+        "industry": [
+            "finance"
+        ],
+        "aliases": [
+            "CMEE",
+            "CME Group Inc.",
+            "CME EUROPE",
+            "CME"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "S&P Dow Jones Indices",
+            "Chicago Mercantile Exchange"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

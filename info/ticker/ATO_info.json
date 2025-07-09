@@ -1,0 +1,54 @@
+[
+    {
+        "id_label": "Atmos Energy",
+        "ticker": "ATO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Atmos Energy Corp"
+        ],
+        "products": [
+            "natural gas"
+        ],
+        "subsidiaries": [
+            "Atos (United States)",
+            "Atos Germany",
+            "Atos",
+            "Groupe Bull",
+            "Eviden"
+        ],
+        "owned_entities": [
+            "Siemens Enterprise Communications",
+            "Atos Consulting"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Atos SE",
+        "ticker": "ATO",
+        "country": [
+            "France"
+        ],
+        "industry": [
+            "IT service management",
+            "information technology consulting",
+            "activities of head offices"
+        ],
+        "aliases": [
+            "Atos Origin",
+            "Atos"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

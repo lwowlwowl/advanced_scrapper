@@ -1,0 +1,71 @@
+[
+    {
+        "id_label": "21st Century Fox",
+        "ticker": "FOXA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "media industry",
+            "journalism",
+            "news media"
+        ],
+        "aliases": [
+            "Twenty-First Century Fox, Inc.",
+            "21CF"
+        ],
+        "products": [
+            "broadcasting"
+        ],
+        "subsidiaries": [
+            "National Geographic Partners",
+            "Endemol Shine Group",
+            "Fox Television Stations",
+            "Tata Play",
+            "Searchlight Pictures",
+            "Fox Entertainment Group",
+            "Blue Sky Studios",
+            "FX",
+            "20th Century Studios",
+            "Fox Broadcasting Company"
+        ],
+        "owned_entities": [
+            "Searchlight Pictures"
+        ],
+        "ceos": [
+            "James Murdoch (End: 2019-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "Fox Corporation",
+        "ticker": "FOXA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "media industry"
+        ],
+        "aliases": [
+            "FOX",
+            "Fox"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Credible",
+            "Tubi",
+            "MyNetworkTV",
+            "Fox Broadcasting Company",
+            "Fox Sports"
+        ],
+        "owned_entities": [
+            "Fox Business"
+        ],
+        "ceos": [
+            "Lachlan Murdoch (Start: 2019-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

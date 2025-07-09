@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Amgen",
+        "ticker": "AMGN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "pharmaceutical industry"
+        ],
+        "aliases": [
+            "Amgen Inc.",
+            "Applied Molecular Genetics"
+        ],
+        "products": [
+            "erenumab"
+        ],
+        "subsidiaries": [
+            "Amgen (Canada)",
+            "Amgen (Germany)",
+            "Amgen (Netherlands)",
+            "Amgen (France)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

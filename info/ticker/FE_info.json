@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "FirstEnergy",
+        "ticker": "FE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electric utility"
+        ],
+        "aliases": [
+            "First Energy"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "The Illuminating Company",
+            "Potomac Edison",
+            "Ohio Edison",
+            "Mon Power",
+            "West Penn Power",
+            "Toledo Edison",
+            "Met-Ed",
+            "Jersey Central Power and Light",
+            "Penn Power",
+            "Penelec"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

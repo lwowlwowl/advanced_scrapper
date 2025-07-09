@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "FactSet",
+        "ticker": "FDS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

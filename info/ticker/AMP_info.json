@@ -1,0 +1,56 @@
+[
+    {
+        "id_label": "AMP Limited",
+        "ticker": "AMP",
+        "country": [
+            "Australia"
+        ],
+        "industry": [
+            "insurance",
+            "economics of banking",
+            "voluntary sector",
+            "financial sector"
+        ],
+        "aliases": [
+            "Australian Mutual Provident Society",
+            "Amp ltd",
+            "AMP LIMITED",
+            "AMP Financial Services",
+            "AMP Bank",
+            "AMP Society"
+        ],
+        "products": [
+            "financial services"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Exchange Plaza",
+            "The Palms Shopping Centre",
+            "Jolimont Centre"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Ameriprise Financial",
+        "ticker": "AMP",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Ameriprise Financial (United States)"
+        ],
+        "products": [
+            "investment"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "James Cracchiolo"
+        ],
+        "board_members": []
+    }
+]

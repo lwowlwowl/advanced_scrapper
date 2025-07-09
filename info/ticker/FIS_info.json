@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Fidelity National Information Services",
+        "ticker": "FIS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "PayNet Payments Network, LLC (Jacksonville, FL)",
+            "PayNet Payments Network - FIS Global",
+            "Fidelity Information Services",
+            "FIS"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Worldpay"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

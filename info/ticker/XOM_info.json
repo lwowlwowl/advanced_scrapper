@@ -1,0 +1,64 @@
+[
+    {
+        "id_label": "ExxonMobil",
+        "ticker": "XOM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            "Exxon Mobil Corporation",
+            "Exxon Mobil Corp.",
+            "Exxon Mobil"
+        ],
+        "products": [
+            "lubricant",
+            "gasoline"
+        ],
+        "subsidiaries": [
+            "ExxonMobil (United Kingdom)",
+            "ExxonMobil (Canada)",
+            "ExxonMobil Research and Engineering",
+            "ExxonMobil Chemical",
+            "Forbes Travel Guide",
+            "ExxonMobil Australia",
+            "XTO Energy",
+            "ExxonMobil Central Europe Holding",
+            "ExxonMobil Fuels & Lubricants Company",
+            "Imperial Oil",
+            "ExxonMobil Fuels, Lubricants & Specialties Marketing Company (Start: http://www.wikidata.org/.well-known/genid/5642d8742f1a57e1b9ec82ad89c75950) (End: 2018-01-01T00:00:00Z)",
+            "ExxonMobil Refining and Supply Company (Start: http://www.wikidata.org/.well-known/genid/c475d73b4cfd83a49f62f2ee0a963a3c) (End: 2018-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Imperial Oil",
+            "Esso",
+            "Aera Energy",
+            "ExxonMobil Australia",
+            "Exxon Neftegas",
+            "Forbes Travel Guide"
+        ],
+        "ceos": [
+            "Rex Tillerson (Start: 2006-01-01T00:00:00Z) (End: 2017-01-01T00:00:00Z)",
+            "Lee Raymond (Start: 1999-01-01T00:00:00Z) (End: 2005-01-01T00:00:00Z)",
+            "Darren Woods (Start: 2017-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Jay Hooley (Start: 2020-01-01T00:00:00Z)",
+            "Darren Woods (Start: 2016-01-01T00:00:00Z)",
+            "Larry Kellner (Start: 2023-01-01T00:00:00Z)",
+            "John Harris (Start: 2023-01-01T00:00:00Z)",
+            "Kaisa Hietala (Start: 2021-05-26T00:00:00Z)",
+            "Susan Avery (Start: 2017-02-01T00:00:00Z)",
+            "Andy Karsner (Start: 2021-06-02T00:00:00Z)",
+            "Jeffrey W. Ubben (Start: 2021-03-01T00:00:00Z)",
+            "Michael J. Angelakis (Start: 2021-03-01T00:00:00Z)",
+            "Gregory J. Goff (Start: 2021-05-26T00:00:00Z)",
+            "Ursula Burns (Start: 2012-11-27T00:00:00Z) (End: 2023-05-31T00:00:00Z)",
+            "Steven A. Kandarian (Start: 2018-02-01T00:00:00Z)",
+            "Angela Braly (Start: 2016-05-25T00:00:00Z)",
+            "Kenneth Frazier (Start: 2009-05-27T00:00:00Z) (End: 2022-05-25T00:00:00Z)"
+        ]
+    }
+]

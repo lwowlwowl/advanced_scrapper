@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Celanese Corporation",
+        "ticker": "CE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            "Hoechst Celanese"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Canadian Celanese"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

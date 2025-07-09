@@ -1,0 +1,37 @@
+[
+    {
+        "id_label": "Alliant Energy",
+        "ticker": "LNT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "public utility"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Lisa M. Barton (Start: 2024-01-01T00:00:00Z)",
+            "John O. Larsen (Start: 2019-07-01T00:00:00Z) (End: 2024-01-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Ignacio A. Cortina (Start: 2023-07-14T00:00:00Z)",
+            "Roger K. Newport (Start: 2018-07-25T00:00:00Z)",
+            "Carol P. Sanders (Start: 2005-11-30T00:00:00Z)",
+            "Michael D. Garcia (Start: 2020-01-01T00:00:00Z)",
+            "Stephanie L. Cox (Start: 2023-02-11T00:00:00Z)",
+            "Christie Raymond (Start: 2024-04-01T00:00:00Z)",
+            "John O. Larsen (Start: 2019-02-13T00:00:00Z)",
+            "N. Joy Falotico (Start: 2021-07-14T00:00:00Z)",
+            "Patrick E. Allen (Start: 2011-07-27T00:00:00Z)",
+            "Lisa M. Barton (Start: 2024-01-01T00:00:00Z)",
+            "Thomas F. O\u2019Toole (Start: 2015-01-01T00:00:00Z)"
+        ]
+    }
+]

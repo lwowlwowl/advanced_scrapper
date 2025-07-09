@@ -1,0 +1,23 @@
+[
+    {
+        "id_label": "Edwards Lifesciences",
+        "ticker": "EW",
+        "country": [
+            "Belgium",
+            "United States"
+        ],
+        "industry": [
+            "medical device"
+        ],
+        "aliases": [
+            "Edwards Lifesciences (Switzerland)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

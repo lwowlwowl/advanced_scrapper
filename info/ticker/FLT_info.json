@@ -1,0 +1,45 @@
+[
+    {
+        "id_label": "Corpay",
+        "ticker": "FLT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Fleetcor Technologies",
+            "Fleetcor"
+        ],
+        "products": [
+            "fuel card"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Flight Centre",
+        "ticker": "FLT",
+        "country": [
+            ""
+        ],
+        "industry": [
+            "tourism industry"
+        ],
+        "aliases": [
+            "FLIGHT CENTRE TRAVEL GROUP LIMITED",
+            "Flight Centre Travel Group",
+            "(FCTG)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

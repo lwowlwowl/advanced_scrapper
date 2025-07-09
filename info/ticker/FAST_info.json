@@ -1,0 +1,46 @@
+[
+    {
+        "id_label": "Fastenal",
+        "ticker": "FAST",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Fastenal Company"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Fastfood Indonesia",
+        "ticker": "FAST",
+        "country": [
+            "Indonesia"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "PT Fast Food Indonesia Tbk",
+            "Fast Food Indonesia",
+            "FAST"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Swara Sangkar Emas"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

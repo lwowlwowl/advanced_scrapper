@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Carrier Corporation",
+        "ticker": "CARR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "heating, ventilation, and air conditioning",
+            "construction industry"
+        ],
+        "aliases": [
+            "CARRIER CORPORATION (Palm Beach Gardens, FL)",
+            "Carrier Corp",
+            "Carrier"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

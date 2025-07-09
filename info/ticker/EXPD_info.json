@@ -1,0 +1,23 @@
+[
+    {
+        "id_label": "Expeditors International",
+        "ticker": "EXPD",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "logistics"
+        ],
+        "aliases": [
+            "Expeditors International of Washington",
+            "Expeditors"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

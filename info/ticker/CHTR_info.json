@@ -1,0 +1,43 @@
+[
+    {
+        "id_label": "Charter Communications",
+        "ticker": "CHTR",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "telecommunications"
+        ],
+        "aliases": [
+            "Spectrum Cable",
+            "Charter Communications, Inc.",
+            "Spectrum"
+        ],
+        "products": [
+            "cable television"
+        ],
+        "subsidiaries": [
+            "Spectrum",
+            "Insight Communications Inc.",
+            "Time Warner Cable"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Mauricio Ramos (Start: 2016-05-18T00:00:00Z)",
+            "Jim Meyer (Start: 2018-07-01T00:00:00Z)",
+            "Eric Zinterhofer (Start: 2016-05-01T00:00:00Z)",
+            "John C. Malone (Start: 2013-05-01T00:00:00Z)",
+            "Michael Newhouse (Start: 2016-05-18T00:00:00Z)",
+            "Greg Maffei (Start: 2013-05-01T00:00:00Z)",
+            "David Merritt (Start: 2009-12-15T00:00:00Z)",
+            "Steve Miron (Start: 2016-05-18T00:00:00Z)",
+            "Tom Rutledge (Start: 2012-02-13T00:00:00Z)",
+            "Kim Goodman (Start: 2016-07-26T00:00:00Z)",
+            "Balan Nair (Start: 2013-05-01T00:00:00Z)",
+            "Jay Markley (Start: 2009-11-30T00:00:00Z)",
+            "W. Lance Conn (Start: 2009-11-30T00:00:00Z)",
+            "Craig Jacobson (Start: 2010-07-27T00:00:00Z)"
+        ]
+    }
+]

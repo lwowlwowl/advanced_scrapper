@@ -1,0 +1,70 @@
+[
+    {
+        "id_label": "CenterPoint Energy",
+        "ticker": "CNP",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electricity generation"
+        ],
+        "aliases": [
+            "CenterPoint"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Union Pacific Railroad",
+        "ticker": "CNP",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "rail transport"
+        ],
+        "aliases": [
+            "Union Pacific Railroad Company",
+            "UP",
+            "Union Pacific"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Spokane International Railroad (Start: 1958-01-01T00:00:00Z) (End: 1987-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Richmond station",
+            "Chemult",
+            "San Luis Obispo station",
+            "Austin",
+            "Bakersfield statiob",
+            "Central Corridor",
+            "Elko",
+            "Glenwood Springs",
+            "Granby",
+            "Grand Junction",
+            "Green River",
+            "Helper",
+            "Hubbard Woods",
+            "Klamath Falls station",
+            "Provo",
+            "Redding station",
+            "Riverside\u2013Rialto",
+            "Union Pacific / North Line",
+            "Union Pacific West Line",
+            "Union Pacific Missouri River Bridge",
+            "Winnemucca station",
+            "Steel Bridge",
+            "Harvard Subdivision"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id_label": "",
+        "ticker": "ADSK",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "software development"
+        ],
+        "aliases": [
+            "autodesk.com"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Autodesk (Canada)"
+        ],
+        "owned_entities": [
+            "Eagle"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

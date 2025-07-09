@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Gartner",
+        "ticker": "IT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "market research"
+        ],
+        "aliases": [
+            "Gartner Group"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Capterra"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

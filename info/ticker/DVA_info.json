@@ -1,0 +1,46 @@
+[
+    {
+        "id_label": "DaVita",
+        "ticker": "DVA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "health care industry"
+        ],
+        "aliases": [
+            "DaVita Kidney Care",
+            "DaVita Inc.",
+            "DaVita Dialysis"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "DaVita Medical Group"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "DaVita Medical Group",
+        "ticker": "DVA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "managed care"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

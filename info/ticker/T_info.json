@@ -1,0 +1,115 @@
+[
+    {
+        "id_label": "AT&T",
+        "ticker": "T",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "postal and telecommunications services",
+            "telecommunications",
+            "mass media"
+        ],
+        "aliases": [
+            "AT&T Inc.",
+            "American Telephone and Telegraph Company",
+            "ATT"
+        ],
+        "products": [
+            "broadband",
+            "mobile phone",
+            "software",
+            "digital television",
+            "satellite television",
+            "landline telephone",
+            "broadband Internet access"
+        ],
+        "subsidiaries": [
+            "TELUS Mobility",
+            "TELUS Optik TV",
+            "Koodo Mobile"
+        ],
+        "owned_entities": [
+            "Storyhive",
+            "Public Mobile"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "TELUS",
+        "ticker": "T",
+        "country": [
+            "Canada"
+        ],
+        "industry": [
+            "mobile phone industry",
+            "telecommunications"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "Evolved HSPA",
+            "LTE Advanced",
+            "5G"
+        ],
+        "subsidiaries": [
+            "AT&T Foundation",
+            "AT&T Global Network Services Czech Republic",
+            "AT&T Intellectual Property II",
+            "AT&T Properties, LLC",
+            "AT&T Intellectual Property Marketing, Inc.",
+            "Unef\u00f3n ICR",
+            "Nextel M\u00e9xico",
+            "DIMACS",
+            "Cricket Wirelesss",
+            "AppNexus",
+            "AT&T Labs",
+            "AT&T Intellectual Property I",
+            "Southwestern Bell",
+            "ICR AT&T M\u00e9xico",
+            "AT&T Corporation",
+            "DirecTV",
+            "BellSouth",
+            "AT&T Mobility",
+            "Bell Labs",
+            "WarnerMedia",
+            "Indiana Bell (Start: 1920-01-01T00:00:00Z) (End: 1983-01-01T00:00:00Z)",
+            "Illinois Bell (Start: 1899-01-01T00:00:00Z) (End: 1983-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "BellSouth",
+            "Leap Wireless",
+            "DirecTV",
+            "Crunchyroll",
+            "33 Thomas Street",
+            "AT&T City Center",
+            "AT&T Laboratories",
+            "AT&T Internet Services",
+            "AT&T Madison Complex Tandem Office",
+            "DSports",
+            "Pacific Bell",
+            "Americast"
+        ],
+        "ceos": [
+            "John Stankey"
+        ],
+        "board_members": [
+            "Geoff Yang (Start: 2016-06-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Beth E. Mooney (Start: 2013-09-01T00:00:00Z)",
+            "John Stankey (Start: 2020-06-01T00:00:00Z)",
+            "Cindy Taylor (Start: 2013-01-01T00:00:00Z)",
+            "Walter Sherman Gifford (Start: 1925-01-01T00:00:00Z) (End: 1948-01-01T00:00:00Z)",
+            "Stephen J. Luczo (Start: 2019-11-01T00:00:00Z)",
+            "Scott T. Ford (Start: 2012-06-29T00:00:00Z)",
+            "William Kennard (Start: 2014-11-07T00:00:00Z)",
+            "Matthew K. Rose (Start: 2010-09-24T00:00:00Z)",
+            "Luis Ubi\u00f1as (Start: 2021-06-25T00:00:00Z)",
+            "Glenn Hutchins (Start: 2014-06-01T00:00:00Z)",
+            "Debra Lee (Start: 2019-07-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Michael McCallister (Start: 2013-01-01T00:00:00Z)",
+            "Samuel DiPiazza (Start: 2015-07-30T00:00:00Z) (End: 2022-01-01T00:00:00Z)"
+        ]
+    }
+]

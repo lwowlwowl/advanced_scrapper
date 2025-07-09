@@ -1,0 +1,42 @@
+[
+    {
+        "id_label": "",
+        "ticker": "FRT",
+        "country": [
+            ""
+        ],
+        "industry": [
+            "industrial sector"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "fertilizer"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Federal Realty Investment Trust",
+        "ticker": "FRT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate investment trust"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "shopping center"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

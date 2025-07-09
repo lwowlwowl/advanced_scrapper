@@ -1,0 +1,30 @@
+[
+    {
+        "id_label": "Eaton Corporation",
+        "ticker": "ETN",
+        "country": [
+            "United States",
+            "Ireland"
+        ],
+        "industry": [
+            "manufacturing"
+        ],
+        "aliases": [
+            "Eaton Corporation Plc"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Eaton Elektrotechnika",
+            "Eaton (Switzerland)",
+            "Eaton (Taiwan)",
+            "Eaton (Austria)",
+            "Eaton (United Kingdom)",
+            "Eaton Industries"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

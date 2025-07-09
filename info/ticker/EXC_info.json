@@ -1,0 +1,35 @@
+[
+    {
+        "id_label": "Exelon",
+        "ticker": "EXC",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "energy industry"
+        ],
+        "aliases": [
+            "Exelon Corporation"
+        ],
+        "products": [
+            "electric power"
+        ],
+        "subsidiaries": [
+            "Potomac Electric Power Company",
+            "PECO Energy Company"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Linda Jojo (Start: 2015-01-01T00:00:00Z)",
+            "Anthony Anderson (Start: 2013-01-01T00:00:00Z)",
+            "Carlos Gutierrez (Start: 2021-01-01T00:00:00Z)",
+            "John F. Young (Start: 2018-01-01T00:00:00Z)",
+            "Paul Bowers (Start: 2021-01-01T00:00:00Z)",
+            "Marjorie Rodgers Cheshire (Start: 2020-01-01T00:00:00Z)",
+            "Chris Crane (Start: 2012-01-01T00:00:00Z)",
+            "Paul Joskow (Start: 2007-01-01T00:00:00Z)",
+            "Ann C. Berzin (Start: 2012-01-01T00:00:00Z)"
+        ]
+    }
+]

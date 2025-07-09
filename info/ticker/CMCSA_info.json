@@ -1,0 +1,40 @@
+[
+    {
+        "id_label": "Comcast",
+        "ticker": "CMCSA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "telecommunications"
+        ],
+        "aliases": [
+            "Comcast Holdings",
+            "Comcast Corporation"
+        ],
+        "products": [
+            "cable television"
+        ],
+        "subsidiaries": [
+            "Comcast Ventures",
+            "Sky Group",
+            "NBCUniversal"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Brian L. Roberts"
+        ],
+        "board_members": [
+            "Maritza Montiel (Start: 2018-06-01T00:00:00Z)",
+            "David C. Novak (Start: 2017-02-01T00:00:00Z)",
+            "Asuka Nakahara (Start: 2017-02-01T00:00:00Z)",
+            "Edward D. Breen (Start: 2014-02-01T00:00:00Z)",
+            "Brian L. Roberts (Start: 1988-03-01T00:00:00Z)",
+            "Nomi Bergman (Start: 2020-06-01T00:00:00Z) (End: 2022-06-01T00:00:00Z)",
+            "Madeline Bell (Start: 2016-02-01T00:00:00Z)",
+            "Kenneth J. Bacon (Start: 2002-11-01T00:00:00Z)",
+            "Gerald Hassell (Start: 2008-05-01T00:00:00Z)",
+            "Jeff Honickman (Start: 2005-12-01T00:00:00Z)"
+        ]
+    }
+]

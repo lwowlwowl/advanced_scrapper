@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Camden Property Trust",
+        "ticker": "CPT",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate investment trust"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "apartment"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

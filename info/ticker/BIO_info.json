@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Bio-Rad Laboratories",
+        "ticker": "BIO",
+        "country": [
+            "Switzerland",
+            "United States"
+        ],
+        "industry": [
+            "biotechnology"
+        ],
+        "aliases": [
+            "Bio-Rad"
+        ],
+        "products": [
+            "multi-well plate"
+        ],
+        "subsidiaries": [
+            "Bio-Rad (United Kingdom)",
+            "Bio-Rad (France)",
+            "Bio-Rad (Canada)",
+            "Bio-Rad (Israel)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

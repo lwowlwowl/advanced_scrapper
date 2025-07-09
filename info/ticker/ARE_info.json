@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Alexandria Real Estate Equities",
+        "ticker": "ARE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "real estate investment trust"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Peter M. Moglia (Start: 2018-04-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Cynthia L. Feldmann (Start: 2022-03-01T00:00:00Z)",
+            "Richard H. Klein (Start: 2003-12-01T00:00:00Z)",
+            "Michael A. Woronoff (Start: 2017-07-01T00:00:00Z)",
+            "Sheila K. McGrath (Start: 2023-12-01T00:00:00Z)",
+            "James P. Cain (Start: 2015-12-01T00:00:00Z)",
+            "Joel S. Marcus (Start: 1994-01-01T00:00:00Z)",
+            "Steven R. Hash (Start: 2013-12-01T00:00:00Z)",
+            "Maria Freire (Start: 2012-04-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Chipotle Mexican Grill",
+        "ticker": "CMG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "fast food"
+        ],
+        "aliases": [
+            "Chipotle"
+        ],
+        "products": [
+            "Tex-Mex"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Steve Ells",
+            "Brian Niccol"
+        ],
+        "board_members": []
+    }
+]

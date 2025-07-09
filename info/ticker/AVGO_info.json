@@ -1,0 +1,65 @@
+[
+    {
+        "id_label": "Broadcom",
+        "ticker": "AVGO",
+        "country": [
+            "Singapore",
+            "United States"
+        ],
+        "industry": [
+            "semiconductor industry"
+        ],
+        "aliases": [
+            "HP Associates",
+            "Agilent Semiconductor Products Group",
+            "Avago Technologies"
+        ],
+        "products": [
+            "semiconductor"
+        ],
+        "subsidiaries": [
+            "Broadcom (United Kingdom)",
+            "Broadcom (Ireland)",
+            "Broadcom (Canada)",
+            "Broadcom (Israel)",
+            "Broadcom (Singapore)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Broadcom",
+        "ticker": "AVGO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "semiconductor industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "integrated circuit"
+        ],
+        "subsidiaries": [
+            "Broadcom"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Tan Hock Eng (Start: 2006-03-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Gayla J. Delly (Start: 2017-01-01T00:00:00Z)",
+            "Diane Bryant (Start: 2019-01-11T00:00:00Z)",
+            "Harry L. You (Start: 2019-01-08T00:00:00Z)",
+            "Justine F. Page (Start: 2019-06-11T00:00:00Z)",
+            "Henry Samueli (Start: 2016-01-01T00:00:00Z)",
+            "Low Check Kian (Start: 2016-01-01T00:00:00Z)",
+            "Kenneth Y. Hao (Start: 2024-02-05T00:00:00Z)",
+            "Eddy Hartenstein (Start: 2016-01-01T00:00:00Z)",
+            "Tan Hock Eng (Start: 2006-01-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "CSX Corporation",
+        "ticker": "CSX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "rail transport"
+        ],
+        "aliases": [
+            "CSX"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Fruit Growers Express",
+            "CSX Transportation"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

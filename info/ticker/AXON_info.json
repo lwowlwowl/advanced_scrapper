@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Axon",
+        "ticker": "AXON",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "arms industry"
+        ],
+        "aliases": [
+            "TASER International, Inc.",
+            "TASER International Incorporated",
+            "Taser International",
+            "TASER",
+            "Axon Enterprise, Inc.",
+            "Axon Enterprise"
+        ],
+        "products": [
+            "Taser",
+            "body camera"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

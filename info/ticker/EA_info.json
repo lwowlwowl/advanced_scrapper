@@ -1,0 +1,78 @@
+[
+    {
+        "id_label": "Electronic Arts",
+        "ticker": "EA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "video game industry"
+        ],
+        "aliases": [
+            "Electronic Arts, Inc.",
+            "Electronic Arts Inc.",
+            "EA Games",
+            "EA"
+        ],
+        "products": [
+            "software",
+            "video game",
+            "Need for Speed",
+            "Command & Conquer",
+            "Battlefield",
+            "Medal of Honor",
+            "Army of Two",
+            "Apex Legends"
+        ],
+        "subsidiaries": [
+            "EA Studios Japan",
+            "Electronic Arts K.K.",
+            "Respawn Entertainment",
+            "Softcannon",
+            "EA Bright Light",
+            "Glu Mobile",
+            "Criterion Games",
+            "PopCap Games",
+            "Crystal Dynamics",
+            "EA Sports",
+            "DICE",
+            "Bullfrog Productions",
+            "Maxis"
+        ],
+        "owned_entities": [
+            "BioWare",
+            "Maxis",
+            "EA Mobile",
+            "Westwood Studios",
+            "EA Phenomic",
+            "Danger Close Games",
+            "DICE",
+            "EA Vancouver",
+            "Pogo.com",
+            "PopCap Games",
+            "Origin Systems",
+            "Criterion Games",
+            "Visceral Games",
+            "Playfish",
+            "EA Sports Big",
+            "The Sims Studio",
+            "EA Black Box",
+            "EA Montreal",
+            "EA Orlando",
+            "Mythic Entertainment",
+            "Electronic Arts Victor",
+            "Firemonkeys Studios",
+            "EA Bright Light",
+            "EA Salt Lake",
+            "NuFX",
+            "Square Electronic Arts ICR DATA HP",
+            "Victory Games",
+            "EA Gothenburg",
+            "EA Singapore"
+        ],
+        "ceos": [
+            "Andrew Wilson (Start: 2013-09-17T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

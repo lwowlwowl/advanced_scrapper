@@ -1,0 +1,44 @@
+[
+    {
+        "id_label": "Darden Restaurants",
+        "ticker": "DRI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "system catering"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Cheddar's Casual Caf\u00e9"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "",
+        "ticker": "DRI",
+        "country": [
+            "Morocco"
+        ],
+        "industry": [
+            "food industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

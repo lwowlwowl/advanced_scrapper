@@ -1,0 +1,57 @@
+[
+    {
+        "id_label": "Deere & Company",
+        "ticker": "DE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "manufacture of agricultural and forestry machinery"
+        ],
+        "aliases": [
+            "Deere and Company",
+            "DEERE & COMPANY (Moline, IL)",
+            "Deere & Co",
+            "John Deere"
+        ],
+        "products": [
+            "grader",
+            "combine harvester",
+            "tractor",
+            "diesel engine",
+            "excavator",
+            "forage harvester",
+            "telescopic handler",
+            "sugarcane harvester",
+            "cotton picker",
+            "backhoe",
+            "skid-steer loader"
+        ],
+        "subsidiaries": [
+            "John Deere (Germany)",
+            "John Deere Forestry Oy"
+        ],
+        "owned_entities": [
+            "John Deere",
+            "John Deere House and Shop"
+        ],
+        "ceos": [
+            "Charles Deere Wiman (Start: 1928-01-01T00:00:00Z) (End: 1955-01-01T00:00:00Z)",
+            "John May (Start: 2019-11-04T00:00:00Z)"
+        ],
+        "board_members": [
+            "Charles O. Holliday, Jr. (Start: 2007-01-01T00:00:00Z) (End: 2016-01-01T00:00:00Z)",
+            "Mike Johanns (Start: 2015-01-08T00:00:00Z)",
+            "Charles O. Holliday, Jr. (Start: 2018-01-01T00:00:00Z)",
+            "Clayton M. Jones (Start: 2007-08-28T00:00:00Z)",
+            "Tami Erwin (Start: 2020-05-01T00:00:00Z)",
+            "Sheila Talton (Start: 2015-05-27T00:00:00Z)",
+            "Leanne Caret (Start: 2021-01-01T00:00:00Z)",
+            "John May (Start: 2019-08-01T00:00:00Z)",
+            "Dmitri Stockton (Start: 2015-05-27T00:00:00Z)",
+            "Sherry M. Smith (Start: 2011-12-01T00:00:00Z)",
+            "Alan Heuberger (Start: 2016-12-20T00:00:00Z)",
+            "Gregory R. Page (Start: 2013-06-01T00:00:00Z)"
+        ]
+    }
+]

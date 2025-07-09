@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "FICO",
+        "ticker": "FICO",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "data analysis"
+        ],
+        "aliases": [
+            "Fair Isaac and Company"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

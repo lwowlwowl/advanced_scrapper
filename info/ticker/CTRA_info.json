@@ -1,0 +1,50 @@
+[
+    {
+        "id_label": "Coterra Energy",
+        "ticker": "CTRA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            "Coterra",
+            "Cabot Oil & Gas"
+        ],
+        "products": [
+            "natural gas"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Ciputra Development",
+        "ticker": "CTRA",
+        "country": [
+            "Indonesia"
+        ],
+        "industry": [
+            "real estate economics",
+            "real estate development"
+        ],
+        "aliases": [
+            "CTRA",
+            "Ciputra Development Tbk"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Rina Ciputra Sastrawinata (Start: 2017-01-01T00:00:00Z)",
+            "William Hendharto Ciputra",
+            "Dian Sumeler",
+            "Junita Ciputra"
+        ]
+    }
+]

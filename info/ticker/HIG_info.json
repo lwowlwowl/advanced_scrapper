@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "The Hartford",
+        "ticker": "HIG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "The Hartford Financial Services Group, Inc.",
+            "Hartford Insurance",
+            "Hartford Financial Services"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

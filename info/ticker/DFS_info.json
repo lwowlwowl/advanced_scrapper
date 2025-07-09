@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "Discover Financial",
+        "ticker": "DFS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "Discover Financial Services, Inc.",
+            "Discover Financial Services"
+        ],
+        "products": [
+            "payment system",
+            "Discover Card"
+        ],
+        "subsidiaries": [
+            "Diners Club International",
+            "Discover Home Loans"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Michael Shepherd (Start: 2024-04-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

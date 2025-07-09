@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Blackstone Inc.",
+        "ticker": "BX",
+        "country": [
+            "United Kingdom",
+            "United States"
+        ],
+        "industry": [
+            "financial services"
+        ],
+        "aliases": [
+            "The Blackstone Group L.P.",
+            "The Blackstone Group",
+            "Blackstone Group",
+            "Blackstone"
+        ],
+        "products": [
+            "private equity",
+            "alternative investment"
+        ],
+        "subsidiaries": [
+            "GSO Capital Partners",
+            "Motel 6",
+            "Hilton Worldwide"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Stephen A. Schwarzman"
+        ],
+        "board_members": []
+    }
+]

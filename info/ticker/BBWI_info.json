@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Bath & Body Works",
+        "ticker": "BBWI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "final good",
+            "cosmetics industry"
+        ],
+        "aliases": [
+            "Bath & Body Works, LLC.",
+            "Bath&Body Works"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

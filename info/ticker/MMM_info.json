@@ -1,0 +1,79 @@
+[
+    {
+        "id_label": "Marley Spoon Inc.",
+        "ticker": "MMM",
+        "country": [
+            "Germany"
+        ],
+        "industry": [
+            "food delivery service"
+        ],
+        "aliases": [
+            "MARLEY SPOON AG",
+            "Marley Spoon"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "3M (United Kingdom)",
+            "3M (France)",
+            "3M (Germany)",
+            "3M (Israel)",
+            "3M (Canada)",
+            "3M Innovative Properties"
+        ],
+        "owned_entities": [
+            "Post-it Note",
+            "scotch tape"
+        ],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "3M",
+        "ticker": "MMM",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "conglomerate",
+            "final good",
+            "occupational safety",
+            "consumer goods industry"
+        ],
+        "aliases": [
+            "Minnesota Mining and Manufacturing Company",
+            "Minnesota Mining and Manufacturing",
+            "Minnesota Mining & Mfg. Co.",
+            "3M corporation",
+            "3M Company"
+        ],
+        "products": [
+            "software"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Mike Roman (Start: 2018-07-01T00:00:00Z) (End: 2024-05-01T00:00:00Z)",
+            "William M. Brown (Start: 2024-05-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Anne H. Chow (Start: 2023-02-09T00:00:00Z)",
+            "Michael Eskew (Start: 2003-01-01T00:00:00Z) (End: 2024-05-14T00:00:00Z)",
+            "Thomas Brown (Start: 2013-08-12T00:00:00Z)",
+            "Amy Hood (Start: 2017-08-13T00:00:00Z)",
+            "Suzan Kereere (Start: 2022-02-10T00:00:00Z)",
+            "Jim Fitterling (Start: 2021-02-05T00:00:00Z)",
+            "Thomas W. Sweet (Start: 2023-11-06T00:00:00Z)",
+            "Pamela Craig (Start: 2019-05-14T00:00:00Z) (End: 2023-05-09T00:00:00Z)",
+            "Mike Roman (Start: 2018-05-08T00:00:00Z)",
+            "Audrey Choi (Start: 2023-08-09T00:00:00Z)",
+            "Pedro Pizarro (Start: 2023-02-09T00:00:00Z)",
+            "David Dillon (Start: 2015-08-09T00:00:00Z)",
+            "Dambisa Moyo, Baroness Moyo (Start: 2018-08-12T00:00:00Z) (End: 2023-05-09T00:00:00Z)",
+            "Gregory R. Page (Start: 2016-02-01T00:00:00Z)",
+            "Muhtar Kent (Start: 2013-04-01T00:00:00Z) (End: 2023-05-09T00:00:00Z)"
+        ]
+    }
+]

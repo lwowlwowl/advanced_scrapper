@@ -1,0 +1,89 @@
+[
+    {
+        "id_label": "Deutsche Telekom",
+        "ticker": "DTE",
+        "country": [
+            "Germany"
+        ],
+        "industry": [
+            "mobile phone industry",
+            "telecommunications"
+        ],
+        "aliases": [
+            "Telekom Net",
+            "DTAG",
+            "Deutsche Telekom AG",
+            "German Telecom",
+            "Telekom",
+            "DT"
+        ],
+        "products": [
+            "landline telephone"
+        ],
+        "subsidiaries": [
+            "T Wholesale",
+            "Deutsche Telekom IT Solutions Slovakia",
+            "Deutsche Telekom Europe",
+            "Deutsche Telekom (United Kingdom)",
+            "T-Mobile Czech Republic",
+            "One Albania",
+            "T-Mobile Macedonia",
+            "T-Mobile UK",
+            "Telekom Romania Mobile",
+            "T-Mobile US",
+            "Telekom Deutschland",
+            "T-Mobile Austria",
+            "Detecon",
+            "T-Mobile Polska",
+            "BT Group",
+            "T-Online",
+            "T-Systems International GmbH",
+            "Slovak Telekom",
+            "Hrvatski Telekom",
+            "Magyar Telekom",
+            "OTE"
+        ],
+        "owned_entities": [
+            "OTE",
+            "Toll Collect",
+            "T-Mobile",
+            "Magyar Telekom",
+            "Hrvatski Telekom",
+            "T-Systems International GmbH",
+            "Europaturm",
+            "Konrad-Adenauer-Haus",
+            "Telekom Deutschland",
+            "Telekom Romania Mobile",
+            "Fernmeldeturm Willst\u00e4tt",
+            "Deutsche Telekom Europe Holding"
+        ],
+        "ceos": [
+            "Kai-Uwe Ricke (Start: 2002-11-15T00:00:00Z) (End: 2006-11-13T00:00:00Z)",
+            "Ron Sommer (Start: 1995-05-16T00:00:00Z) (End: 2002-11-15T00:00:00Z)",
+            "Timotheus H\u00f6ttges (Start: 2014-01-01T00:00:00Z)",
+            "Ren\u00e9 Obermann (Start: 2006-11-13T00:00:00Z) (End: 2013-12-31T00:00:00Z)"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "DTE Energy",
+        "ticker": "DTE",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "energy industry"
+        ],
+        "aliases": [
+            "Detroit Edison",
+            "DTE"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

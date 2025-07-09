@@ -1,0 +1,35 @@
+[
+    {
+        "id_label": "Align Technology",
+        "ticker": "ALGN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "clear aligner"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Joseph M. Hogan (Start: 2015-06-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Anne M. Myong (Start: 2019-08-01T00:00:00Z)",
+            "Mojdeh Poul (Start: 2023-12-05T00:00:00Z)",
+            "Andrea L. Saia (Start: 2013-07-25T00:00:00Z)",
+            "Joseph M. Hogan (Start: 2015-06-01T00:00:00Z)",
+            "Kevin T. Conroy (Start: 2023-12-05T00:00:00Z)",
+            "Susan E. Siegel (Start: 2017-03-14T00:00:00Z)",
+            "Joe Lacob (Start: 1997-01-01T00:00:00Z)",
+            "Kevin J. Dallas (Start: 2018-03-05T00:00:00Z)",
+            "C. Raymond Larkin, Jr. (Start: 2004-03-18T00:00:00Z)",
+            "George J. Morrow (Start: 2006-02-23T00:00:00Z)"
+        ]
+    }
+]

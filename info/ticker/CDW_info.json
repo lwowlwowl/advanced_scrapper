@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "CDW",
+        "ticker": "CDW",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "business-to-business"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "software"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

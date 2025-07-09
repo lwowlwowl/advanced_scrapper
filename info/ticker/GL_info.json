@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Globe Life",
+        "ticker": "GL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "life insurance",
+            "financial sector"
+        ],
+        "aliases": [
+            "Torchmark",
+            "GL"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

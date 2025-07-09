@@ -1,0 +1,23 @@
+[
+    {
+        "id_label": "W. R. Berkley",
+        "ticker": "WRB",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "insurance"
+        ],
+        "aliases": [
+            "W. R. Berkley Corporation",
+            "Berkley"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

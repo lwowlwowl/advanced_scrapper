@@ -1,0 +1,24 @@
+[
+    {
+        "id_label": "Devon Energy",
+        "ticker": "DVN",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "petroleum industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "petroleum"
+        ],
+        "subsidiaries": [
+            "Devon Energy (Canada)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "id_label": "Ball Corporation",
+        "ticker": "BALL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mechanical engineering"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "Mason jar"
+        ],
+        "subsidiaries": [
+            "Ball (France)",
+            "Ball (United Kingdom)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

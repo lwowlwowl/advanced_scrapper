@@ -1,0 +1,42 @@
+[
+    {
+        "id_label": "Analog Devices",
+        "ticker": "ADI",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Analog Devices, Inc."
+        ],
+        "products": [
+            "semiconductor"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "DEXUS INDUSTRIA REIT",
+        "ticker": "ADI",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

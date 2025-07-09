@@ -1,0 +1,27 @@
+[
+    {
+        "id_label": "Ecolab",
+        "ticker": "ECL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "conglomerate"
+        ],
+        "aliases": [
+            "Economics Laboratory",
+            "Ecolab Inc.",
+            "ECL"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Ecolab (United Kingdom)",
+            "Ecolab (Germany)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

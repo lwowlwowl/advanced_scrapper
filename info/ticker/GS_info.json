@@ -1,0 +1,58 @@
+[
+    {
+        "id_label": "Goldman Sachs",
+        "ticker": "GS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial service activities, except insurance and pension funding",
+            "financial sector",
+            "financial services",
+            "International Standard Industrial Classification"
+        ],
+        "aliases": [
+            "The Goldman Sachs Group, Inc.",
+            "The Goldman Sachs Group",
+            "GSCO",
+            "Goldman Sachs Group",
+            "Goldman Sachs and Co.",
+            "Goldman Sachs & Co. (US)",
+            "Goldman",
+            "GS"
+        ],
+        "products": [
+            "investment bank",
+            "asset management"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "200 West Street",
+            "CMC Markets",
+            "\u00d8rsted",
+            "Getlink",
+            "30 Hudson Street",
+            "EagleBank",
+            "Moneta Money Bank"
+        ],
+        "ceos": [
+            "David M. Solomon (Start: 2018-10-01T00:00:00Z)",
+            "Lloyd Blankfein (Start: 2006-05-01T00:00:00Z) (End: 2018-09-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Jessica Uhl (Start: 2021-07-01T00:00:00Z)",
+            "David Viniar (Start: 2013-01-01T00:00:00Z)",
+            "David M. Solomon (Start: 2018-10-01T00:00:00Z)",
+            "Mark Winkelman (Start: 2014-12-01T00:00:00Z)",
+            "M. Michele Burns (Start: 2011-10-01T00:00:00Z)",
+            "Jan E. Tighe (Start: 2018-12-01T00:00:00Z)",
+            "Mark Flaherty (Start: 2014-12-01T00:00:00Z)",
+            "Kimberley Harris (Start: 2021-05-01T00:00:00Z)",
+            "Lakshmi Mittal (Start: 2008-06-01T00:00:00Z)",
+            "Drew Gilpin Faust (Start: 2018-07-01T00:00:00Z)",
+            "Peter Oppenheimer (Start: 2014-03-01T00:00:00Z)",
+            "Adebayo O. Ogunlesi (Start: 2012-10-01T00:00:00Z)",
+            "Ellen Kullman (Start: 2016-12-01T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "id_label": "Delta Air Lines",
+        "ticker": "DAL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "air transport",
+            "aviation"
+        ],
+        "aliases": [
+            "Delta Airlines",
+            "Delta Air Lines, Inc.",
+            "DAL",
+            "DL",
+            "Delta"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Endeavor Air",
+            "Delta Sky Club",
+            "Atlantic Southeast Airlines (Start: 1999-01-01T00:00:00Z) (End: 2005-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Sky"
+        ],
+        "ceos": [
+            "Leo F. Mullin (Start: 1997-01-01T00:00:00Z) (End: 2004-01-01T00:00:00Z)",
+            "Ed Bastian (Start: 2016-01-01T00:00:00Z)",
+            "Ronald W. Allen (Start: 1987-01-01T00:00:00Z) (End: 1997-01-01T00:00:00Z)",
+            "Charles H. Dolson (Start: 1970-01-01T00:00:00Z) (End: 1971-01-01T00:00:00Z)",
+            "Richard H. Anderson (Start: 2007-01-01T00:00:00Z) (End: 2016-01-01T00:00:00Z)",
+            "W.T. Beebe (Start: 1971-01-01T00:00:00Z) (End: 1978-01-01T00:00:00Z)",
+            "David C. Garrett, Jr. (Start: 1978-01-01T00:00:00Z) (End: 1987-01-01T00:00:00Z)",
+            "Gerald Grinstein (Start: 2004-01-01T00:00:00Z) (End: 2007-01-01T00:00:00Z)",
+            "Collett E. Woolman (Start: 1965-01-01T00:00:00Z) (End: 1966-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

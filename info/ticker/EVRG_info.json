@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Evergy",
+        "ticker": "EVRG",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electric utility"
+        ],
+        "aliases": [
+            "Westar Energy"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

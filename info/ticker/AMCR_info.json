@@ -1,0 +1,33 @@
+[
+    {
+        "id_label": "Amcor",
+        "ticker": "AMCR",
+        "country": [
+            "Australia",
+            "Switzerland"
+        ],
+        "industry": [
+            "product packaging industry"
+        ],
+        "aliases": [
+            "Amcor Pty Ltd",
+            "AMCOR PLC",
+            "Amcor PLC",
+            "Australian Paper Manufacturers"
+        ],
+        "products": [
+            "product packaging"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Peter Konieczny (Start: 2024-04-15T00:00:00Z)",
+            "Ron Delia (Start: 2015-01-01T00:00:00Z) (End: 2024-04-15T00:00:00Z)"
+        ],
+        "board_members": [
+            "Achal Agarwal (Start: 2021-11-10T00:00:00Z)",
+            "Ron Delia (Start: 2015-01-01T00:00:00Z) (End: 2024-04-15T00:00:00Z)",
+            "Graeme Liebelt (Start: 2012-01-01T00:00:00Z)"
+        ]
+    }
+]

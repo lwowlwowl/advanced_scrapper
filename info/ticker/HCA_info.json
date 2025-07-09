@@ -1,0 +1,38 @@
+[
+    {
+        "id_label": "HCA Corporation",
+        "ticker": "HCA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "health care"
+        ],
+        "aliases": [
+            "Hospital Corporation of America",
+            "HCA Healthcare",
+            "HCA"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "MountainStar Healthcare"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": [
+            "Andrea Smith (Start: 2022-01-26T00:00:00Z)",
+            "Sam Hazen (Start: 2018-09-01T00:00:00Z)",
+            "Mike Michelson (Start: 2018-01-17T00:00:00Z)",
+            "Wayne J. Riley (Start: 2012-01-01T00:00:00Z)",
+            "Meg Crofton (Start: 2019-03-01T00:00:00Z)",
+            "Thomas F. Frist, III (Start: 2006-01-01T00:00:00Z)",
+            "William R. Frist (Start: 2009-01-01T00:00:00Z)",
+            "Hugh Francis Johnston (Start: 2021-09-01T00:00:00Z)",
+            "Nancy-Ann DeParle (Start: 2014-02-03T00:00:00Z)",
+            "Charles O. Holliday, Jr. (Start: 2016-04-28T00:00:00Z)",
+            "Robert J. Dennis (Start: 2014-02-01T00:00:00Z)"
+        ]
+    }
+]

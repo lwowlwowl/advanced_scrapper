@@ -1,0 +1,45 @@
+[
+    {
+        "id_label": "Dentsply",
+        "ticker": "XRAY",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    },
+    {
+        "id_label": "Dentsply Sirona",
+        "ticker": "XRAY",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "dentistry"
+        ],
+        "aliases": [
+            "Dentsply Sirona Inc.",
+            "Dentsply Sirona (United States)"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Dentsply Sirona (Sweden)"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

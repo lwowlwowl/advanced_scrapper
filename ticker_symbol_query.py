@@ -188,7 +188,7 @@ def query_wikidata(symbol):
             all_results.append(entry)
 
         # Now we save the combined results to a JSON file
-        with open(f'info/{symbol}_info.json', 'w') as f:
+        with open(f'info/ticker/{symbol}_info.json', 'w') as f:
             json.dump(all_results, f, indent=4)
     else:
         print("Error in fetching data")

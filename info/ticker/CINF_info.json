@@ -1,0 +1,22 @@
+[
+    {
+        "id_label": "Cincinnati Financial",
+        "ticker": "CINF",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "insurance"
+        ],
+        "aliases": [
+            "Cincinnati Financial Corporation"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]

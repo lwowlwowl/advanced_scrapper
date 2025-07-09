@@ -1,0 +1,102 @@
+[
+    {
+        "id_label": "Apple",
+        "ticker": "AAPL",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "information technology",
+            "electronics",
+            "mobile phone industry",
+            "consumer electronics industry",
+            "software development",
+            "software industry",
+            "digital distribution"
+        ],
+        "aliases": [
+            "Apple, Inc",
+            "Apple Incorporated",
+            "Apple Computer Inc.",
+            "Apple Computer Inc"
+        ],
+        "products": [
+            "software",
+            "iPad",
+            "iPod",
+            "iPhone",
+            "computer hardware",
+            "smartphone",
+            "tablet computer",
+            "iMac",
+            "Apple TV",
+            "consumer electronics",
+            "iPod touch",
+            "personal computer",
+            "AirPods",
+            "HomePod",
+            "personal digital assistant",
+            "Mac",
+            "wearable computer",
+            "networking hardware",
+            "peripheral",
+            "Apple Watch",
+            "Apple Pay"
+        ],
+        "subsidiaries": [
+            "Apple Czech",
+            "Apple Sales International",
+            "Apple Israel",
+            "Apple Germany",
+            "Siri Inc.",
+            "AuthenTec",
+            "Braeburn Capital",
+            "SchemaSoft",
+            "Raycer",
+            "Prismo Graphics",
+            "FingerWorks",
+            "Anobit",
+            "FileMaker, Inc.",
+            "Beats Electronics",
+            "Claris",
+            "Apple Store"
+        ],
+        "owned_entities": [
+            "Imagination Technologies",
+            "Apple corporate shuttle"
+        ],
+        "ceos": [
+            "John Sculley (Start: 1983-01-01T00:00:00Z) (End: 1993-01-01T00:00:00Z)",
+            "Mike Markkula (Start: 1981-01-01T00:00:00Z) (End: 1983-01-01T00:00:00Z)",
+            "Gil Amelio (Start: 1996-01-01T00:00:00Z) (End: 1997-01-01T00:00:00Z)",
+            "Tim Cook (Start: 2011-08-24T00:00:00Z)",
+            "Michael Scott (Start: 1977-01-01T00:00:00Z) (End: 1981-01-01T00:00:00Z)",
+            "Michael Spindler (Start: 1993-01-01T00:00:00Z) (End: 1996-01-01T00:00:00Z)",
+            "Steve Jobs (Start: 1997-09-01T00:00:00Z) (End: 2011-08-23T00:00:00Z)"
+        ],
+        "board_members": [
+            "Steve Jobs (Start: 1977-03-01T00:00:00Z) (End: 1985-09-01T00:00:00Z)",
+            "Steve Jobs (Start: 1997-01-01T00:00:00Z) (End: 2011-10-05T00:00:00Z)",
+            "Tim Cook (Start: 2011-01-01T00:00:00Z)",
+            "John Sculley (Start: 1983-01-01T00:00:00Z) (End: 1993-10-14T00:00:00Z)",
+            "Andrea Jung (Start: 2008-01-07T00:00:00Z)",
+            "Al Gore (Start: 2003-03-19T00:00:00Z)",
+            "Mike Markkula (Start: 1977-03-01T00:00:00Z) (End: 1997-08-06T00:00:00Z)",
+            "Bob Iger (Start: 2011-01-01T00:00:00Z) (End: 2019-09-10T00:00:00Z)",
+            "Eric Schmidt (Start: 2006-08-01T00:00:00Z) (End: 2009-08-03T00:00:00Z)",
+            "Larry Ellison (Start: 1997-01-01T00:00:00Z) (End: 2002-09-20T00:00:00Z)",
+            "Monica C. Lozano (Start: 2021-01-05T00:00:00Z)",
+            "Arthur D. Levinson (Start: 2000-01-01T00:00:00Z)",
+            "Gil Amelio (Start: 1994-01-01T00:00:00Z) (End: 1997-07-01T00:00:00Z)",
+            "Alex Gorsky (Start: 2021-11-09T00:00:00Z)",
+            "Susan Wagner (Start: 2014-07-17T00:00:00Z)",
+            "Ronald Sugar (Start: 2010-11-17T00:00:00Z)",
+            "James A. Bell (Start: 2015-10-01T00:00:00Z)",
+            "Jerry York (Start: 1997-01-01T00:00:00Z) (End: 2010-03-18T00:00:00Z)",
+            "Delano Lewis (Start: 1994-01-01T00:00:00Z) (End: 1997-07-25T00:00:00Z)",
+            "Fred D. Anderson (Start: 2004-06-01T00:00:00Z) (End: 2006-10-01T00:00:00Z)",
+            "Arthur Rock (Start: 1980-10-01T00:00:00Z) (End: 1993-08-01T00:00:00Z)",
+            "Edgar S. Woolard, Jr. (Start: 1996-01-01T00:00:00Z) (End: 2000-01-01T00:00:00Z)"
+        ]
+    }
+]

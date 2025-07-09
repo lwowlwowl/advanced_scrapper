@@ -1,0 +1,47 @@
+[
+    {
+        "id_label": "AES Corporation",
+        "ticker": "AES",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "electricity generation"
+        ],
+        "aliases": [
+            "The AES Corporation",
+            "Arlington Energy",
+            "AES Trust III",
+            "AES Corp.",
+            "AES Corp",
+            "AES"
+        ],
+        "products": [
+            "electricity"
+        ],
+        "subsidiaries": [
+            "AES (United Kingdom)",
+            "AES Andes"
+        ],
+        "owned_entities": [
+            "Shulbinsk Hydroelectric Power Plant",
+            "AES Andes"
+        ],
+        "ceos": [
+            "Andr\u00e9s R. Gluski (Start: 2011-09-30T00:00:00Z)"
+        ],
+        "board_members": [
+            "Maura Shaughnessy (Start: 2021-07-15T00:00:00Z)",
+            "Julia M. Laulis (Start: 2020-04-23T00:00:00Z)",
+            "Inderpal Bhandari (Start: 2024-01-18T00:00:00Z)",
+            "Mois\u00e9s Na\u00edm (Start: 2013-04-18T00:00:00Z)",
+            "John B. Morse, Jr. (Start: 2008-12-12T00:00:00Z)",
+            "Gerard M. Anderson (Start: 2023-07-17T00:00:00Z)",
+            "Holly K. Koeppel (Start: 2015-04-23T00:00:00Z)",
+            "Teresa Sebastian (Start: 2021-01-13T00:00:00Z)",
+            "Alain Moni\u00e9 (Start: 2018-04-19T00:00:00Z)",
+            "Andr\u00e9s R. Gluski (Start: 2011-09-30T00:00:00Z)",
+            "Janet G. Davidson (Start: 2019-02-22T00:00:00Z)"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "id_label": "Corteva",
+        "ticker": "CTVA",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "Pesticide and Other Agricultural Chemical Manufacturing",
+            "Soil Preparation, Planting, and Cultivating"
+        ],
+        "aliases": [
+            "Corteva, Inc.",
+            "Corteva, Inc",
+            "Corteva Inc",
+            "Corteva Agriscience"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [],
+        "owned_entities": [],
+        "ceos": [
+            "Chuck Magro (Start: 2021-11-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

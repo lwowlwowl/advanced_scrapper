@@ -1,0 +1,29 @@
+[
+    {
+        "id_label": "Ametek",
+        "ticker": "AME",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "manufacturing"
+        ],
+        "aliases": [
+            "AMETEK, Inc",
+            "Ametek Inc."
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "Ametek (Germany)",
+            "Zygo Corporation",
+            "AMETEK Crank"
+        ],
+        "owned_entities": [
+            "Powervar"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

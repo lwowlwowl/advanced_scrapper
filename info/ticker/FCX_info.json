@@ -1,0 +1,35 @@
+[
+    {
+        "id_label": "Freeport-McMoRan",
+        "ticker": "FCX",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "mining"
+        ],
+        "aliases": [
+            "Freeport-McMoRan Copper & Gold Inc.",
+            "Freeport Mc Moran Inc",
+            "Freeport"
+        ],
+        "products": [
+            "copper"
+        ],
+        "subsidiaries": [
+            "Atlantic Copper"
+        ],
+        "owned_entities": [],
+        "ceos": [
+            "Richard Adkerson"
+        ],
+        "board_members": [
+            "Sara Grootwassink Lewis",
+            "Frances Townsend",
+            "Bob Dudley",
+            "Richard Adkerson",
+            "David Abney",
+            "Ryan Lance"
+        ]
+    }
+]

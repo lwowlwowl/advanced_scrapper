@@ -1,0 +1,59 @@
+[
+    {
+        "id_label": "Citigroup",
+        "ticker": "C",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "financial services",
+            "bank",
+            "International Standard Industrial Classification",
+            "financial service activities, except insurance and pension funding"
+        ],
+        "aliases": [
+            "City Bank of New York customer service 08088175528",
+            "Citigroup Inc.",
+            "Citi Bank customer service 08088175528"
+        ],
+        "products": [
+            "bank credit",
+            "insurance"
+        ],
+        "subsidiaries": [
+            "Citigroup Japan Holdings",
+            "Citibank",
+            "Financial Group Banamex"
+        ],
+        "owned_entities": [
+            "Citigroup Center",
+            "One Court Square",
+            "Citibank",
+            "Citibank India",
+            "Banco Nacional de M\u00e9xico",
+            "Citi Bike",
+            "Citigroup Global Markets Japan",
+            "Metalmark Capital"
+        ],
+        "ceos": [
+            "Jane Fraser (Start: 2021-02-01T00:00:00Z)"
+        ],
+        "board_members": [
+            "Jay Jacobs (Start: 2018-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Ellen Costello (Start: 2016-01-01T00:00:00Z)",
+            "Duncan Hennes (Start: 2013-01-01T00:00:00Z)",
+            "Grace Dailey (Start: 2019-09-04T00:00:00Z)",
+            "Leslie Ireland (Start: 2017-01-01T00:00:00Z)",
+            "Anna Lee (Start: 2019-01-01T00:00:00Z)",
+            "Ernesto Zedillo (Start: 2010-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Peter Henry (Start: 2015-01-01T00:00:00Z)",
+            "Ren\u00e9e James (Start: 2016-01-01T00:00:00Z)",
+            "Jim Turley (Start: 2013-07-01T00:00:00Z)",
+            "Jane Fraser (Start: 2020-01-01T00:00:00Z)",
+            "John Dugan (Start: 2017-01-01T00:00:00Z)",
+            "Deborah Wright (Start: 2017-01-01T00:00:00Z) (End: 2022-01-01T00:00:00Z)",
+            "Barbara Desoer (Start: 2019-01-01T00:00:00Z)",
+            "Diana Taylor (Start: 2009-01-01T00:00:00Z)"
+        ]
+    }
+]

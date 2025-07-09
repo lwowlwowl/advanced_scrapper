@@ -1,0 +1,45 @@
+[
+    {
+        "id_label": "Carnival Corporation & plc",
+        "ticker": "CCL",
+        "country": [
+            "United Kingdom",
+            "United States"
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            "Carnival plc",
+            "Carnival Cruise Line",
+            "Carnival Cruise",
+            "Carnival Corporation & PLC",
+            "Carnival Corporation & Plc",
+            "Carnival Corporation",
+            "Carnival Corp.",
+            "Carnival Corp"
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "P&O Cruises Australia",
+            "P&O Cruises",
+            "Holland America Line",
+            "Costa Cruises",
+            "Princess Cruises",
+            "Cunard Line",
+            "Carnival Cruise Line",
+            "AIDA Cruises",
+            "Seabourn Cruise Line",
+            "Fathom (Start: 2015-01-01T00:00:00Z) (End: 2019-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Diamond Princess"
+        ],
+        "ceos": [
+            "Arnold W. Donald (Start: 2013-01-01T00:00:00Z)"
+        ],
+        "board_members": []
+    }
+]

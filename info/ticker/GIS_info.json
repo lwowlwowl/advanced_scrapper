@@ -1,0 +1,39 @@
+[
+    {
+        "id_label": "General Mills",
+        "ticker": "GIS",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "food industry"
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            "breakfast cereal"
+        ],
+        "subsidiaries": [],
+        "owned_entities": [
+            "Old El Paso",
+            "Yoplait",
+            "Pillsbury Company",
+            "Lucky Charms",
+            "Cinnamon Toast Crunch",
+            "Annie's Homegrown",
+            "Betty Crocker",
+            "Bisquick",
+            "French Toast Crunch",
+            "Jus-Rol",
+            "Toaster Strudel",
+            "Totino's",
+            "Trix cereal",
+            "Wanchai Ferry",
+            "Yoki",
+            "Kix"
+        ],
+        "ceos": [],
+        "board_members": []
+    }
+]

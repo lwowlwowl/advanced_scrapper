@@ -1,0 +1,82 @@
+[
+    {
+        "id_label": "DuPont",
+        "ticker": "DD",
+        "country": [
+            "United States"
+        ],
+        "industry": [
+            "chemical industry"
+        ],
+        "aliases": [
+            "E.I. DuPont de Nemours Company",
+            "E. I. DuPont de Nemours & Co.",
+            "DuPont de Nemours, Inc.",
+            "DuPont de Nemours",
+            "DowDuPont",
+            "E. I. du Pont de Nemours and Company"
+        ],
+        "products": [
+            "polytetrafluoroethylene",
+            "Kevlar"
+        ],
+        "subsidiaries": [
+            "DuPont (United Kingdom)",
+            "DuPont (France)",
+            "DuPont Hong Kong",
+            "DuPont Finland",
+            "DuPont Denmark",
+            "DuPont Netherlands",
+            "DuPont Italy",
+            "DuPont Japan",
+            "DuPont Brazil",
+            "DuPont Australia",
+            "DuPont Deutschland",
+            "DuPont Canada",
+            "Pioneer Hi-Bred",
+            "Danisco",
+            "Invista (Start: 2003-02-01T00:00:00Z) (End: 2004-04-30T00:00:00Z)",
+            "Dow Chemical Company (Start: 2017-01-01T00:00:00Z) (End: 2019-01-01T00:00:00Z)"
+        ],
+        "owned_entities": [
+            "Danisco",
+            "Cordura",
+            "Conoco",
+            "Tyvek",
+            "Pioneer Hi-Bred",
+            "Lycra",
+            "Nomex",
+            "Solae",
+            "DuPont Building",
+            "Taslanizing",
+            "Orlon",
+            "Supplex"
+        ],
+        "ceos": [
+            "Edward D. Breen"
+        ],
+        "board_members": []
+    },
+    {
+        "id_label": "DoubleDragon Properties",
+        "ticker": "DD",
+        "country": [
+            ""
+        ],
+        "industry": [
+            ""
+        ],
+        "aliases": [
+            ""
+        ],
+        "products": [
+            ""
+        ],
+        "subsidiaries": [
+            "CityMall"
+        ],
+        "owned_entities": [],
+        "ceos": [],
+        "board_members": []
+    }
+]
