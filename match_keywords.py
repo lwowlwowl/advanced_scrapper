@@ -198,7 +198,7 @@ if __name__ == '__main__':
     processed_data = read_and_process_json_files(folder_path)
 
     # Read the news CSV file
-    news_df = pd.read_csv(f'yahoo_articles_cleaned.csv')
+    news_df = pd.read_csv(f'~/datasets/yahoo_articles_all_20250605.csv')
     os.makedirs(f'{source_name}_ticker_matched_articles', exist_ok=True)
 
     # Determine the number of processes and split the DataFrame into chunks
