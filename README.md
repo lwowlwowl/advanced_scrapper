@@ -18,4 +18,5 @@ The currently available program is `constant_rate_scrapper.py`
 
 
 
-![image-20250824023529789](C:\Users\Haochen Wang\AppData\Roaming\Typora\typora-user-images\image-20250824023529789.png)
+![image-20250824023529789](./README.png)
+
